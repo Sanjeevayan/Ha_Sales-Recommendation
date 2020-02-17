@@ -1,0 +1,236 @@
+Product_Family,similar,score,rank
+security suite,heat classic,3.4025e+38,1
+security suite,application manager,2.28003e+38,2
+security suite,protect,1.57193e+20,3
+security suite,emss,7.73976e+19,4
+security suite,managed planet,4.35988e+19,5
+anti virus,ldms,8.85663e+19,1
+anti virus,dsm,2.89117e+19,2
+anti virus,xtraction,1.77871e+19,3
+anti virus,ldim (inventory manager),1.65918e+19,4
+anti virus,ht oem,7.12986e+18,5
+ldms,ht oem,3.15807e+38,1
+ldms,ldim (inventory manager),2.82804e+38,2
+ldms,patch manager,1.32358e+20,3
+ldms,anti virus,8.85663e+19,4
+ldms,shavlik oem royalties,6.05681e+19,5
+patch manager,ldms,1.32358e+20,1
+patch manager,dsm,5.05249e+19,2
+patch manager,xtraction,1.34248e+19,3
+patch manager,ht oem,6.54554e+18,4
+patch manager,insight,3.92195e+18,5
+ldmg (management gateway),ldms,3.64131,1
+ldmg (management gateway),environment manager,2.53742,2
+ldmg (management gateway),insight,1.16688,3
+ldmg (management gateway),dsm,1.10998,4
+ldmg (management gateway),ht oem,0.758634,5
+others,security suite,2.79761e+19,1
+others,res uem,2.19266e+19,2
+others,itsm core,1.64758e+19,3
+others,heat classic,1.31147e+19,4
+others,uem other,9.5296e+18,5
+res itsm,ldms,5.54627e+19,1
+res itsm,dsm,4.43746e+19,2
+res itsm,application manager,2.50063e+19,3
+res itsm,ldim (inventory manager),7.9757e+18,4
+res itsm,ht oem,6.64384e+18,5
+res uem,xtraction,2.44756e+38,1
+res uem,itsm core,8.47036e+37,2
+res uem,emss,7.32584e+19,3
+res uem,shavlik patch,4.06639e+19,4
+res uem,protect,3.30033e+19,5
+protect,security suite,1.57193e+20,1
+protect,res uem,3.30033e+19,2
+protect,heat 2014 premise,3.01091e+19,3
+protect,heat classic,2.54733e+19,4
+protect,itsm core,2.52893e+19,5
+service desk,res uem,1.59626e+19,1
+service desk,xtraction,9.26281e+18,2
+service desk,security suite,8.86595e+18,3
+service desk,protect,1.04771,4
+service desk,emss,0.825326,5
+user management,uem other,1.53499,1
+user management,heat classic,1.50146,2
+user management,ldim (inventory manager),1.22698,3
+user management,security suite,0.546058,4
+user management,ht oem,0.427638,5
+xtraction,res uem,2.44756e+38,1
+xtraction,insight,1.82544e+38,2
+xtraction,dsm,1.52277e+38,3
+xtraction,ldim (inventory manager),6.1165e+37,4
+xtraction,ht oem,1.52281e+37,5
+desktopnow,environment manager,2.82154e+19,1
+desktopnow,res uem,2.48985e+19,2
+desktopnow,insight,1.98552e+19,3
+desktopnow,heat 2014 premise,1.73259e+19,4
+desktopnow,ldms,1.56319e+19,5
+emss,security suite,7.73976e+19,1
+emss,res uem,7.32584e+19,2
+emss,application manager,2.47193e+19,3
+emss,itsm core,2.04976e+19,4
+emss,heat 2014 premise,1.85392e+19,5
+letmobile,ldms,2.79463e+19,1
+letmobile,environment manager,1.22237e+19,2
+letmobile,insight,7.13735e+18,3
+letmobile,xtraction,5.87067e+18,4
+letmobile,ldim (inventory manager),4.54751e+18,5
+heat 2014 saas,ldms,4.21506e+19,1
+heat 2014 saas,environment manager,1.20464e+19,2
+heat 2014 saas,ldim (inventory manager),9.09645e+18,3
+heat 2014 saas,insight,7.3181e+18,4
+heat 2014 saas,ht oem,4.47775e+18,5
+environment manager,ldim (inventory manager),1.87721e+38,1
+environment manager,ht oem,5.20175e+37,2
+environment manager,performance manager,2.86356e+19,3
+environment manager,desktopnow,2.82154e+19,4
+environment manager,protect,2.42903e+19,5
+managed planet,security suite,4.35988e+19,1
+managed planet,application manager,3.7453e+19,2
+managed planet,itsm core,2.01109e+19,3
+managed planet,uem other,1.54177e+19,4
+managed planet,heat 2014 premise,5.87654e+18,5
+datanow,application manager,1.40824,1
+datanow,dsm,0.290103,2
+datanow,uem other,0.00304973,3
+datanow,res uem,0.00160435,4
+datanow,mobilenow,7.51667e-20,5
+shavlik patch,res uem,4.06639e+19,1
+shavlik patch,environment manager,1.99873e+19,2
+shavlik patch,ldms,1.5266e+19,3
+shavlik patch,insight,1.42618e+19,4
+shavlik patch,uem other,6.55084e+18,5
+discovery,dsm,3.8368e+19,1
+discovery,ldms,2.70221e+19,2
+discovery,xtraction,4.36451e+18,3
+discovery,ldim (inventory manager),1.75458e+18,4
+discovery,ht oem,1.69407e+18,5
+it asset manager,security suite,0.807874,1
+it asset manager,uem other,0.677558,2
+it asset manager,itsm core,0.278842,3
+it asset manager,application manager,0.259044,4
+it asset manager,heat 2014 premise,0.129486,5
+heat 2014 premise,uem other,2.11521e+38,1
+heat 2014 premise,application manager,1.96163e+38,2
+heat 2014 premise,insight,1.14867e+38,3
+heat 2014 premise,protect,3.01091e+19,4
+heat 2014 premise,emss,1.85392e+19,5
+heat lanrev,security suite,2.67205,1
+heat lanrev,itsm core,1.61574,2
+heat lanrev,heat classic,1.3022,3
+heat lanrev,res uem,1.0014,4
+heat lanrev,heat 2014 premise,0.918592,5
+application manager,itsm core,2.67153e+38,1
+application manager,security suite,2.28003e+38,2
+application manager,dsm,2.23832e+38,3
+application manager,heat 2014 premise,1.96163e+38,4
+application manager,uem other,1.92533e+37,5
+heat classic,security suite,3.4025e+38,1
+heat classic,uem other,3.32055e+38,2
+heat classic,insight,2.72301e+38,3
+heat classic,protect,2.54733e+19,4
+heat classic,desktopnow,1.49731e+19,5
+itsm core,application manager,2.67153e+38,1
+itsm core,uem other,2.61947e+38,2
+itsm core,res uem,8.47036e+37,3
+itsm core,protect,2.52893e+19,4
+itsm core,emss,2.04976e+19,5
+sccm,ldms,2.27457e+19,1
+sccm,environment manager,1.31429e+19,2
+sccm,ldim (inventory manager),8.7237e+18,3
+sccm,insight,6.13864e+18,4
+sccm,dsm,5.52506e+18,5
+service management,security suite,1.93607e+19,1
+service management,application manager,1.06611e+19,2
+service management,itsm core,8.48792e+18,3
+service management,heat 2014 premise,6.85546e+18,4
+service management,res uem,4.82435e+18,5
+dsm,application manager,2.23832e+38,1
+dsm,xtraction,1.52277e+38,2
+dsm,ht oem,1.08269e+38,3
+dsm,patch manager,5.05249e+19,4
+dsm,res itsm,4.43746e+19,5
+uem other,heat classic,3.32055e+38,1
+uem other,itsm core,2.61947e+38,2
+uem other,heat 2014 premise,2.11521e+38,3
+uem other,insight,1.17681e+38,4
+uem other,ldim (inventory manager),8.89121e+37,5
+patchlink,ldms,1.62206,1
+patchlink,heat 2014 premise,0.521306,2
+patchlink,dsm,0.375304,3
+patchlink,ht oem,0.334732,4
+patchlink,insight,0.316323,5
+application virtualization,ldms,2.06767e+19,1
+application virtualization,environment manager,1.23212e+19,2
+application virtualization,ldim (inventory manager),8.63043e+18,3
+application virtualization,res uem,8.56622e+18,4
+application virtualization,insight,6.19999e+18,5
+scupdates,itsm core,0.838705,1
+scupdates,application manager,0.835712,2
+scupdates,security suite,0.778723,3
+scupdates,dsm,0.650762,4
+scupdates,heat 2014 premise,0.559377,5
+es,ldms,2.81652,1
+es,environment manager,1.52344,2
+es,dsm,1.30488,3
+es,heat classic,0.806563,4
+es,xtraction,0.751485,5
+insight,heat classic,2.72301e+38,1
+insight,xtraction,1.82544e+38,2
+insight,ldim (inventory manager),1.24744e+38,3
+insight,uem other,1.17681e+38,4
+insight,heat 2014 premise,1.14867e+38,5
+ldim (inventory manager),ldms,2.82804e+38,1
+ldim (inventory manager),environment manager,1.87721e+38,2
+ldim (inventory manager),insight,1.24744e+38,3
+ldim (inventory manager),uem other,8.89121e+37,4
+ldim (inventory manager),xtraction,6.1165e+37,5
+mobilenow,security suite,1.33054e+19,1
+mobilenow,application manager,1.2244e+19,2
+mobilenow,res uem,6.74496e+18,3
+mobilenow,uem other,6.66953e+18,4
+mobilenow,heat classic,9.11809e+17,5
+asset manager,security suite,1.00959,1
+asset manager,heat 2014 premise,0.592062,2
+asset manager,application manager,0.498196,3
+asset manager,itsm core,0.328294,4
+asset manager,res uem,0.224577,5
+performance manager,environment manager,2.86356e+19,1
+performance manager,ldms,2.65797e+19,2
+performance manager,insight,1.37684e+19,3
+performance manager,xtraction,7.97878e+18,4
+performance manager,dsm,5.08671e+18,5
+go,ldms,3.97365e+19,1
+go,dsm,1.55494e+19,2
+go,environment manager,8.52986e+18,3
+go,insight,8.13066e+18,4
+go,ht oem,4.08984e+18,5
+server manager,ldms,1.72092e+19,1
+server manager,heat classic,9.6531e+18,2
+server manager,res uem,8.83633e+18,3
+server manager,dsm,6.84369e+18,4
+server manager,heat 2014 premise,5.27988e+18,5
+file director,ldms,1.67685,1
+file director,environment manager,0.75961,2
+file director,insight,0.602123,3
+file director,dsm,0.291848,4
+file director,xtraction,0.291063,5
+oem licenced royalties,ldms,5.77295e+19,1
+oem licenced royalties,dsm,2.41911e+19,2
+oem licenced royalties,environment manager,1.37103e+19,3
+oem licenced royalties,insight,6.84351e+18,4
+oem licenced royalties,xtraction,6.54801e+18,5
+shavlik oem royalties,ldms,6.05681e+19,1
+shavlik oem royalties,dsm,2.11188e+19,2
+shavlik oem royalties,environment manager,1.16911e+19,3
+shavlik oem royalties,insight,8.18657e+18,4
+shavlik oem royalties,xtraction,5.91455e+18,5
+ht oem,ldms,3.15807e+38,1
+ht oem,dsm,1.08269e+38,2
+ht oem,environment manager,5.20175e+37,3
+ht oem,ldim (inventory manager),4.50745e+37,4
+ht oem,insight,3.57322e+37,5
+xtraction oem royalty,ldms,2.75557e+19,1
+xtraction oem royalty,res uem,2.29018e+19,2
+xtraction oem royalty,environment manager,2.08581e+19,3
+xtraction oem royalty,insight,1.42316e+19,4
+xtraction oem royalty,xtraction,9.16957e+18,5
