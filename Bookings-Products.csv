@@ -1,0 +1,1288 @@
+New_Deal_Count,Product_Family,Product_Code,Product_Name
+2,Admin Studio,ADMN-PRO,Admin Studio Prof. Edition
+7,Admin Studio,ADMN-STD,Admin Studio Standard Edition
+1,Anti Virus,LDAV-BD-L,"Ivanti Antivirus Manager 2017 License - Add-on to Ivanti MS, IvantiSS, or IvantiPM , Powered by LANDESK"
+496,Anti Virus,LDAV-L,"Ivanti Antivirus Manager-License Add-on to Ivanti MS, IvantiSS, or IvantiPM, powered by Landesk"
+3,Anti Virus,LDAVMS-SUB,LANDesk® Antivirus Mail Server-Subscription
+1360,Anti Virus,LDAV-S,"Ivanti Antivirus Manager - Add-on to Ivanti MS or IvantiSS, powered by Landesk"
+36,Anti Virus,LDAV-S-MSP,"Ivanti Anti-Virus Monthly MSP, powered by Landesk"
+9,Anti Virus,LDAV-S-PROMO,LANDESK ANTI-VIRUS SUBSCRIPTION PROMO
+2,Application Manager,AC LIC 00 SVR,Ivanti Application Control - Server (not XenApp/RDSH) License
+510,Application Manager,AM LIC 00 F,"Ivanti Application Control - Named User License, powered by AppSense"
+25,Application Manager,AM LIC 00 P,Application Manager - Single Platform-Named user licence- Named User
+241,Application Manager,AM LIC 00 T,Application Manager - User License - Terminal Server
+241,Application Manager,AM LIC 00 T,"Ivanti Application Control - Concurrent User License, powered by AppSense"
+1,Application Manager,AM SUB 12 T,"Ivanti Application Control Subscription - Concurrent User License – 1 Year, powered by AppSense"
+1,Application Manager,S-AM-L,"Ivanti Application Manager for Microsoft System Center License, powered by AppSense"
+21,Application Manager,URM LIC 00 F,"Ivanti Application Control URM Edition - Named User License, powered by AppSense"
+243,Application Virtualization,LDAPV-L,LANDesk Application Virtualisation
+243,Application Virtualization,LDAPV-L,"Application Virtualization, powered by Landesk"
+1,Application Virtualization,LDAPV-L-SA,"Ivanti Application Virtualization-Stand Alone, powered by Landesk"
+126,Asset Manager,LDALMC-L,"Ivanti Asset Lifecycle Manager Console, powered by Landesk"
+130,Asset Manager,LDALMS-L,"Ivanti Asset Lifecycle Manager Server, powered by Landesk"
+11,Asset Manager,LDALMSPMA-M,"Ivanti Asset Lifecycle Manager Server Maintenance, powered by Landesk"
+2,Asset Manager,LD-AMIAT-S,"AMI Asset Track Annual Subscription, powered by AppSense"
+254,Asset Manager,LDAM-L,LANDesk Asset Manager
+127,Asset Manager,LDAM-L,"Ivanti Asset Manager, powered by Landesk"
+1,Bufferzone,LD-BZ-EP-L,Bz Endpoint License
+1,Classroom Manager,LDCRM-L-EDCLS,LANDesk Classroom Manager-Education Single Classroom less than 10 nodes
+22,DataNow,DD UPG DS F,"Ivanti User Workspace Manager - Named User Upgrade License, from DesktopNow, powered by AppSense"
+91,DataNow,DN GSP 01 H,"Ivanti File Director Hosted - 1 Month Subscription License, powered by AppSense"
+139,DataNow,DN GSP 12 EN,DataNow Enterprise
+139,DataNow,DN GSP 12 EN,"Ivanti File Director Subscription 12 Month, powered by AppSense"
+8,DataNow,DN GSP 12 ES,DataNow Essentials
+1,DataNow,DN GSP 24 EN,"Ivanti File Director Subscription 24 Month, powered by AppSense"
+6,DataNow,DN GSP 36 EN,"Ivanti File Director Subscription 36 Month, powered by AppSense"
+182,DataNow,DN LIC 00 P,"Ivanti File Director - Named User License, powered by AppSense"
+10,DataNow,DTN GSP 12 ES,DataNow Essentials
+2,Deposit - LDMS,OEM-LDROYALTY,JSI OEM Royalty
+87,DesktopNow,DD LIC 00 F,"Ivanti User Workspace Manager - Named User License, powered by AppSense"
+3,DesktopNow,DD LIC 00 T,"Ivanti DesktopNow Plus - Concurrent User License - Flexible Platform, powered by AppSense"
+5,DesktopNow,DD POD 14 F,"Promotional DesktopNow Plus Upgrade License, from DesktopNow"
+1,DesktopNow,DD UPG AM F,"Ivanti User Workspace Manager - Named User Upgrade License, from Application Manager, powered by AppSense"
+4,DesktopNow,DD UPG EM F,"Ivanti User Workspace Manager - Named User Upgrade License, from Enviroment Manager, powered by AppSense"
+10,DesktopNow,DPE LIC 00 P,DesktopNow PC Edition (Promo) - Named User License - Single Platform
+268,DesktopNow,DSK GSP 01 H,"Ivanti DesktopNow Hosted - 1 Month Subscription License, powered by AppSense"
+11,DesktopNow,DSK GSP 12 H,DesktopNow Hosted - 12 Month Subscription License
+1277,DesktopNow,DSK LIC 00 F,"Ivanti DesktopNow - Named User License, powered by AppSense"
+42,DesktopNow,DSK LIC 00 P,DesktopNow - Single Platform-Named user License- Per User
+432,DesktopNow,DSK LIC 00 T,DesktopNow - User License -Terminal Server
+432,DesktopNow,DSK LIC 00 T,"Ivanti DesktopNow - Concurrent User License, powered by AppSense"
+432,DesktopNow,DSK LIC 00 T,DesktopNow-Terminal Server-Per CCU-Single Licence
+2,DesktopNow,DSK LIC 00 TS,DesktopNow - Terminal Server License
+2,DesktopNow,DSK MSP 01 F,"Ivanti DesktopNow Monthly MSP – Named User, powered by AppSense"
+8,DesktopNow,DSK UPG AM F,"Ivanti DesktopNow - Named User Upgrade License, from Application Manager, powered by AppSense"
+23,DesktopNow,DSK UPG EM F,"Ivanti DesktopNow - Named User Upgrade License, from Enviroment Manager, powered by AppSense"
+3,DesktopNow,DSK UPG EM N,"DesktopNow - Concurrent User Upgrade License, from Enviroment Manager"
+1,DesktopNow,DSK UPG PM F,"Ivanti DesktopNow - Named User Upgrade License, from Performance Manager, powered by AppSense"
+2,DesktopNow,DVE LIC 00 P,DesktopNow Virtual Edition (Promo) - Named User License - Single Platform
+3,DesktopNow,EMP LIC 00 T,Environment Manager plus PM - Flexible Platform - Per CCU License
+1,DesktopNow,PM GSP 12 H,Performance Manager Hosted - 12 Month Subscription License
+2,Discovery,CDACL0001,Discovery Archive License
+2,Discovery,CDACL0002,"Ivanti Frontrange Discovery Archive Perpetual License - Powered by HEAT, Volume Only"
+39,Discovery,CDBCL0002,Ivanti Frontrange Discovery Perpetual License - Powered by HEAT
+24,Discovery,CDBCL0004,"Ivanti HEAT Discovery (P) Perpetual License - Powered by HEAT, Volume Only"
+225,Discovery,CDBHS0001,"Ivanti Discovery Web MSP Subscription - Powered by HEAT, Volume/Renewal Only"
+7,Discovery,CDBSV0004,Frontrange Discovery 12 Months Subscription
+8,Discovery,CDBSV0005,Frontrange Discovery 90 Days Subscription
+1,Discovery,CDSSV0005,"Ivanti Frontrange Security Advisor 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+3,Discovery,CENCF0063,Frontrange License Compliance
+2,Discovery,CENCF0091,Frontrange SAM v7
+21,Discovery,HDCCL0001,"Ivanti HEAT Discovery (Device) Perpetual License - Powered by HEAT, Volume Only"
+1,Discovery,HDCSV0001,"Ivanti HEAT Discovery (Device) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,Discovery,HDCSV0003,"Ivanti HEAT Discovery (Device) 3Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+20,Discovery,HTPCL0011,"Ivanti HEAT Discovery 2015 (P) Perpetual License - Powered by HEAT, Volume Only"
+9,Discovery,ITSM-DISC-C,"Ivanti Service Manager Discovery SaaS, per Device Cloud Subscription, powered by HEAT"
+11,Discovery,ITSM-DISC-L,"Ivanti Service Manager Discovery per Device Perpetual License, powered by HEAT"
+23,DSM,CENCF0089,"Ivanti Frontrange DSM v7 Desktop Management Perpetual License - Powered by HEAT, Volume Only"
+14,DSM,CENCF0093,"Ivanti FrontRange Server Mngmnt (SBC) Suite Perpetual License - Powered by HEAT, Volume Only"
+2,DSM,CENCF0095,"Ivanti FrontRange Server Mngmnt Admin Suite Perpetual License - Powered by HEAT, Volume Only"
+15,DSM,CENCF0099,HEAT Desktop Management
+1,DSM,CENCF0101,HEAT Operating Systems Deployment
+9,DSM,CENCF0103,"Ivanti HEAT DSM Perpetual License - Powered by HEAT, Volume Only"
+38,DSM,CENCF0105,HEAT Client Management
+18,DSM,CENCF0107,"Ivanti DSM v7 SBC User Perpetual License - Powered by HEAT, Volume Only"
+23,DSM,CENCF0109,"Ivanti HEAT Client Management 2013 Perpetual License - Powered by HEAT, Volume Only"
+14,DSM,CENCF0111,HEAT DSM 2013+
+9,DSM,EDZSL0002,Frontrange DMZ Management Pack v7 Server
+1,DSM,EEMSL0002,Frontrange DSM v7  Business Logic Proxy Server
+5,DSM,ELGCL0008,"Ivanti Frontrange DSM v7 Personality Mig Perpetual License - Powered by HEAT, Volume Only"
+13,DSM,ELGCL0011,"Ivanti Personality Migration v7 Perpetual License - Powered by HEAT, Volume Only"
+2,DSM,ELGCL0012,"Ivanti DSM Personality Migration Perpetual License - Powered by HEAT, Volume Only"
+28,DSM,ENICL0025,"Ivanti Frontrange DSM v7 NetInstall Perpetual License - Powered by HEAT, Volume Only"
+1,DSM,ENICL0026,NetInstall License
+1,DSM,ENISV0003,NetInstall Subscription
+5,DSM,ENTSV0001,"Ivanti Client Management Suite 1Yr Subscription - Powered by HEAT, Renewal Only"
+43,DSM,EOICL0002,"Ivanti Frontrange DSM v7 OSD Imaging Option Perpetual License - Powered by HEAT, Volume Only"
+35,DSM,EOICL0003,"Ivanti OSD Imaging Option Perpetual License - Powered by HEAT, Volume Only"
+3,DSM,EOICL0004,DSM OS Imaging License - Addon for DSM for OS Deployment
+1,DSM,EOSCL0001,enteo OS Deployment v6
+47,DSM,EOSCL0019,"Ivanti Frontrange DSM v7 OS Deployment Perpetual License - Powered by HEAT, Volume Only"
+9,DSM,EOSCL0020,"Ivanti OS Deployment Perpetual License - Powered by HEAT, Volume Only"
+1,DSM,EOSSV0002,OS Deployment Subscription
+8,DSM,EPMCL0016,"Ivanti Frontrange DSM v7 Patch Perpetual License - Powered by HEAT, Volume Only"
+47,DSM,EPMCL0017,"Ivanti Advanced Patch Management v7.2 Perpetual License - Powered by HEAT, Volume Only"
+138,DSM,EPMCL0018,Advanced Patch Management 7.2 (Legacy)
+97,DSM,EPMCL0020,Ivanti Advanced Patch Perpetual License - Powered by HEAT
+7,DSM,EPTCL0011,"Ivanti Frontrange DSM v7 Portal Perpetual License - Powered by HEAT, Volume Only"
+9,DSM,ERTCL0007,Frontrange DSM v7 Remote License
+5,DSM,HEMCF0001,"Ivanti HEAT Endpoint Perpetual License - Powered by HEAT, Volume Only"
+8,DSM,HEMCF0003,"Ivanti HEAT Endpoint DSM (Device) Perpetual License - Powered by HEAT, Volume Only"
+4,DSM,HEMCF0007,"Ivanti HEAT Endpoint DSM 2016 (Device) Perpetual License - Powered by HEAT, Volume Only"
+1,DSM,HEMSV0001,"Ivanti HEAT Endpoint DSM (Device) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+15,DSM,HPLCL0001,Ivanti HEAT PatchLink Perpetual License - Powered by HEAT
+45,DSM,HPLCL0002,Ivanti HEAT PatchLink Upgrade Perpetual License - Powered by HEAT
+3,DSM,HPLSV0001,HEAT PatchLink Subscription
+11,DSM,HRECL0001,"Ivanti HEAT Remote DSM (Device) Perpetual License - Powered by HEAT, Volume Only"
+1,DSM,HRESV0001,"Ivanti HEAT Remote DSM (Device) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,DSM,HSBCL0001,HEAT Server Management SBC (User)
+30,DSM,HTCSV0014,"Ivanti HEAT Remote (P) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+13,DSM,HTDCF0001,"Ivanti HEAT DSM 2015 Perpetual License - Powered by HEAT, Volume Only"
+44,DSM,HTDCF0003,"Ivanti HEAT Client Management Basic Perpetual License - Powered by HEAT, Volume Only"
+46,DSM,HTDCF0005,"Ivanti HEAT Client Management 2015 Perpetual License - Powered by HEAT, Volume Only"
+1,DSM,HTDCF0007,"Ivanti HEAT Client Management 2015 1Yr Subscription - Powered by HEAT, Renewal Only"
+6,DSM,HTDCF0009,HEAT Client Management Basic Subscription
+22,DSM,HTDCF0010,"Ivanti HEAT Client Mgmt DSM (Device) Perpetual License - Powered by HEAT, Volume Only"
+2,DSM,HTDCF0014,"Ivanti HEAT Client Mgmt DSM (Device) 3Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+28,DSM,HTDCF0015,Ivanti DSM Perpetual License - Formerly HEAT Client Management DSM
+3,ELA PICK2,ELA-P2AMSM-S,Ivanti ELA Annual Subscription User License - Pick Two: ITAM and ITSM
+3,ELA PICK2,ELA-P2UEMAM-S,Ivanti ELA Annual Subscription User License - Pick Two: UEM and ITAM
+4,ELA PICK2,ELA-P2UEMSEC-S,Ivanti ELA Annual Subscription User License - Pick Two: UEM and Security
+3,ELA PICK2,ELA-P2UEMSM-S,Ivanti ELA Annual Subscription User License - Pick Two: UEM and ITSM
+11,ELA UNIFIED IT,ELA-UIT-S,Ivanti ELA Annual Subscription User License - Unified IT
+3,ELA UNIFIED IT,ELA-UPG-UIT-S,Ivanti ELA Upgrade Annual Subscription User License - Unified IT
+4,EMSS,APCCL0001,"Ivanti Application Control Perpetual License - Powered by HEAT, Volume Only"
+1,EMSS,AVSCL0001,"Ivanti AntiVirus Perpetual License - Powered by HEAT, Volume Only"
+1,EMSS,CWZCL0001,"Ivanti Content Wizard Perpetual License - Powered by HEAT, Volume Only"
+1,EMSS,CWZHS0001,"Ivanti Content Wizard MSP Subscription - Powered by HEAT, Volume/Renewal Only"
+4,EMSS,CWZSV0001,"Ivanti Content Wizard 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+5,EMSS,DCECL0001,"Ivanti Device Control Enterprise Perpetual License - Powered by HEAT, Volume Only"
+2,EMSS,DCESV0001,"Ivanti Device Control Enterprise 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+35,EMSS,EMECF0001,"Ivanti Endpoint Mgmt & Security Suite Ent Perpetual License - Powered by HEAT, Volume Only"
+22,EMSS,EMECF0003,"Ivanti Endpoint Mgmt & Security Suite Ent Subscription - Powered by HEAT, Volume/Renewal Only"
+28,EMSS,EMECF0004,"Ivanti Endpoint Mgmt & Sec Suite Ent MSP Subscription - Powered by HEAT, Volume/Renewal Only"
+19,EMSS,EMMCF0001,"Ivanti Endpoint Mgmt & Security Suite Perpetual License - Powered by HEAT, Volume Only"
+13,EMSS,EMMCF0003,"Ivanti Endpoint Mgmt & Security Suite Subscription - Powered by HEAT, Volume/Renewal Only"
+2,EMSS,EMMMT0004,"Ivanti Endpoint Mgmt and Security Premium Support Subscription, powered by HEAT Renewal Only"
+54,EMSS,EMMSL0001,Endpoint Mgmt & Security Suite Platform
+21,EMSS,EMMSL0003,Endpoint Mgmt & Security Suite Enterprise Platform
+2,EMSS,EMMSL0004,Endpoint Mgmt & Security Suite Standard Platform
+1,EMSS,EMMSL0005,"Ivanti Endpoint Mgmt & Security Suite MSP SaaS - Powered by HEAT, Volume/Renewal Only"
+7,EMSS,ES-SV-L,"Ivanti Endpoint Security for Server License, powered by HEAT"
+63,EMSS,ES-WS-L,"Ivanti Endpoint Security for Workstation License, powered by HEAT"
+108,EMSS,HESCF0001,Ivanti HEAT EMSS (Device) Perpetual License - Powered by HEAT
+37,EMSS,HESSV0001,"Ivanti HEAT EMSS (Device) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,EMSS,HESSV0002,"Ivanti HEAT EMSS (Device) 2 Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,EMSS,HESSV0003,"Ivanti HEAT EMSS (Device) 3 Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+18,EMSS,HPECL0001,"Ivanti HEAT PatchLink (P&R) Perpetual License - Powered by HEAT, Volume Only"
+10,EMSS,HPESV0001,"Ivanti HEAT PatchLink (P&R) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+3,EMSS,HPESV0002,"Ivanti HEAT PatchLink (P&R) 2Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,EMSS,HPESV0003,"Ivanti HEAT PatchLink (P&R) 3Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,EMSS,OEMPMCL01,Ivanti OEM Royalty Patch Management API Perpetual License - Powered by HEAT
+60,EMSS,OEMPMSV01,Ivanti OEM Royalty Patch Management API Subscription - Powered by HEAT
+4,EMSS,PRWCL0001,"Ivanti Patch & Remediation Windows Perpetual License - Powered by HEAT, Volume Only"
+37,EMSS,PRWHS0001,"Ivanti Patch & Remediation Windows 1Yr MSP Subscription - Powered by HEAT, Volume/Renewal Only"
+12,EMSS,PRWSV0001,"Ivanti Patch & Remediation Windows 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,EMSS,S-ES-SV-L,"Ivanti Endpoint Security for Server License, powered by HEAT"
+1,EMSS,S-ES-WS-L,"Ivanti Endpoint Security for Workstation License, powered by HEAT"
+5,EMSS,SGECL0001,"Ivanti Sophos Safeguard Easy Disk Encrypt Perpetual License - Powered by HEAT, Volume Only"
+2,EMSS,SGECL0002,"Ivanti Sophos Disk Encryption Perpetual License - Powered by HEAT, Volume Only"
+6,Endpoint Security Suite,ES2 LIC 00 F,"Endpoint Security Suite 2.0 - Named User License, powered by AppSense"
+3,Endpoint Security Suite,ES2 UPG AM F,"Endpoint Security Suite 2.0 - Named User License Upgrade, from Application Manager, powered by AppSense"
+17,Environment Manager,EM GSP 01 H,Environment Manager Hosted - 1 Month Subscription License
+1,Environment Manager,EM GSP 06 SN,Environment Manager 6 Months Subscription License
+1,Environment Manager,EM LIC 00 D,Environment Manager - Desktop Licence - Per User
+1,Environment Manager,EM LIC 00 D,Environment Manager-Desktop-Single Licence
+691,Environment Manager,EM LIC 00 F,"Ivanti Environment Manager - Named User License, powered by AppSense"
+44,Environment Manager,EM LIC 00 P,Environment Manager - Single Platform Licence - Named User
+146,Environment Manager,EM LIC 00 T,Environment Manager - User License -Terminal Server
+146,Environment Manager,EM LIC 00 T,"Ivanti Environment Manager - Flexible Platform - Per CCU License, powered by AppSense"
+2,Environment Manager,EM MSP 01 F,"Ivanti Environment Manager Monthly MSP - Named User, powered by AppSense"
+2,Environment Manager,EM SUB 12 F,"Ivanti Environment Manager Subscription - Named User License – 1 Year, powered by AppSense"
+1,Environment Manager,EM UPG CCU,Environment Manager - Named User License Upgrade to CCU
+29,Environment Manager,EMA LIC 00 F,Environment Manager plus AM - Flexible Platform  - Named User License
+3,Environment Manager,EMA LIC 00 T,Environment Manager plus AM - Flexible Platform - Per CCU License
+6,Environment Manager,EMD LIC 00 F,Environment Manager plus DN - Flexible Platform  - Named User License
+6,Environment Manager,EME LIC 00 F,Environment Manager Essentials - Flexible Platform  - Named User License
+1,Environment Manager,EMI LIC 00 F,Environment Manager plus Insight - Named User License - Flexible Platform
+7,Environment Manager,EMP LIC 00 F,Environment Manager plus PM - Flexible Platform  - Named User License
+3,Environment Manager,UEM LIC 00 P,UEM Essentials (Promo) - Named User License - Single Platform
+2,ES,ACPCL0002,Application Control Server Ed License Classic
+3,ES,APCCL0002,"Ivanti Application Control Classic Perpetual License - Powered by HEAT, Volume Only"
+1,ES,APCCL0003,"Ivanti Application Control Classic Server Perpetual License - Powered by HEAT, Volume Only"
+1,ES,DAC-AC-CPA-L,"Ivanti Device and Application Control (AC CPA Add-on) License, Powered by HEAT"
+2,ES,DAC-AC-L,"Ivanti Device and Application Control (AC Only) License, Powered by HEAT"
+51,ES,DAC-DC-L,"Ivanti Device and Application Control (DC Only) License, Powered by HEAT"
+2,ES,DAC-DC-S,"Ivanti Device and Application Control (DC Only) Subscription, powered by HEAT"
+10,ES,DAC-L,"Ivanti Device and Application Control License, Powered by HEAT"
+80,ES,DCCCL0001,"Ivanti Device Control Enterprise Classic Perpetual License - Powered by HEAT, Volume Only"
+17,ES,DCCSV0001,"Ivanti Device Control Enterprise Classic Premise Subscription - Powered by HEAT, Volume/Renewal Only"
+9,ES,ESSCL0001,"Ivanti Endpoint Security Suite Perpetual License - Powered by HEAT, Volume Only"
+1,ES,ESSSV0003,"Ivanti Endpoint Security Suite Premise Subscription - Powered by HEAT, Volume/Renewal Only"
+8,ES,LACCL0001,"Ivanti Application Control Perpetual License Classic - Powered by HEAT, Volume Only"
+79,ES,LDCCL0001,"Ivanti Device Control Classic per Device Perpetual License - Powered by HEAT, Volume Only"
+11,ES,LDCSV0001,"Ivanti Device Control Classic per Device Premise Subscription - Powered by HEAT, Volume/Renewal Only"
+23,ES,LESCL0001,"Ivanti Endpoint Security Suite Classic Perpetual License - Powered by HEAT, Volume Only"
+4,ES,LESSV0001,"Ivanti Endpoint Security Suite Classic Premise Subscription - Powered by HEAT, Volume/Renewal Only"
+1,ES,S-DAC-DC-L,"Ivanti Device and Application Control (DC Only) License, Powered by HEAT"
+1,ES,S-DAC-DC-S,"Ivanti Device and Application Control (DC Only) Subscription 1 Yr, powered by HEAT"
+17,File Director,DN LIC 00 P,"Ivanti File Director - Named User License, powered by AppSense"
+1,File Director,WINUMIG-S,Windows User Migration Subscription
+5,Go,SKIT-ITS1XL-SUB,"IT.Shavlik, Limited Scans"
+35,Go,SKIT-ITS1XU-ISUB,"DO NOT SELL IT.Shavlik (IT Pro) Subcription, Unlimited Scans, 1 Year Initial"
+1,Go,SKIT-ITS1XU-RSUB,"IT.Shavlik (IT Pro) Subcription, Unlimited Scans, 1 Year Renewal"
+16,Go,SKIT-ITS1XU-SUB,"IT.Shavlik, Unlimited Scans"
+4,Go,SKIT-ITS2XU-ISUB,"DO NOT SELL IT.Shavlik (IT Pro) Subcription, Unlimited Scans, 2 Year Initial"
+11,Go,SKIT-ITS3XU-ISUB,"DO NOT SELL IT.Shavlik (IT Pro) Subcription, Unlimited Scans, 3 Year Initial"
+1,Go,SKIT-ITS3XU-RSUB,"IT.Shavlik (IT Pro) Subcription, Unlimited Scans, 3 Year Renewal"
+60,Go,SKIT-VGO1-ISUB,"VMware Go Pro Term License + SaaS Basic Support for 1 year, for 10 managed machines"
+1,Go,SKIT-VGO2-ISUB,"VMware Go Pro Term License + SaaS Basic Support for 2 year, for 10 managed machines"
+4,Go,SKIT-VGO3-ISUB,"VMware Go Pro Term License + SaaS Basic Support for 3 year, for 10 managed machines"
+95,Go,SKPR-ITS3XU-ISUB,"DO NOT SELL IT.Shavlik (IT Pro) Subcription, Unlimited Scans, 3 Year Initial, Promotion"
+16,Go,VP-GO-G-SAAS-C,"VMware Go Pro Service + SaaS Basic Support for 1 year, for 10 managed machines"
+10,Handheld Manager,LDHM-L,LANDesk Handheld Manager
+10,Handheld Manager,LDHM-L,"Ivanti Handheld Manager, powered by Landesk"
+61,HEAT 2014 Premise,HTPCF0001,"Ivanti Service Management Named (P) Perpetual License - Powered by HEAT, Volume Only"
+94,HEAT 2014 Premise,HTPCF0002,"Ivanti Service Management Concurrent (P) Perpetual License - Powered by HEAT, Volume Only"
+86,HEAT 2014 Premise,HTPCF0005,"Ivanti Help Desk Named (P) Perpetual License - Powered by HEAT, Volume Only"
+158,HEAT 2014 Premise,HTPCF0006,"Ivanti Help Desk Concurrent (P) Perpetual License - Powered by HEAT, Volume Only"
+61,HEAT 2014 Premise,HTPCF0009,"Ivanti Service Desk Named (P) Perpetual License - Powered by HEAT, Volume Only"
+127,HEAT 2014 Premise,HTPCF0010,"Ivanti Service Desk Concurrent (P) Perpetual License - Powered by HEAT, Volume Only"
+28,HEAT 2014 Premise,HTPCF0013,"Ivanti Service Management Named 2015 (P) Perpetual License - Powered by HEAT, Volume Only"
+58,HEAT 2014 Premise,HTPCF0014,"Ivanti Service Management Conc 2015 (P) Perpetual License - Powered by HEAT, Volume Only"
+17,HEAT 2014 Premise,HTPCL0001,HEAT Service Catalog (P)
+1,HEAT 2014 Premise,HTPCL0002,HEAT Self Service (P)
+3,HEAT 2014 Premise,HTPCL0003,HEAT Mobile (P)
+4,HEAT 2014 Premise,HTPCL0004,"Ivanti Service Catalog Stand Alone (P) Perpetual License - Powered by HEAT, Volume Only"
+2,HEAT 2014 Premise,HTPCL0006,HEAT Service Mgmt Hot Standby (P)
+2,HEAT 2014 Premise,HTSSV0004,"Ivanti Service Mgmt Named 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,HEAT 2014 Premise,HTSSV0007,"Ivanti Service Mgmt Conc 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+3,HEAT 2014 Premise,HTSSV0029,"Ivanti Self Service Subscriptionscription 1Yr Subscription - Powered by HEAT, Renewal Only"
+2,HEAT 2014 Premise,HTVCF0001,HEAT Voice Automation (P)
+43,HEAT 2014 Premise,HTVCL0001,"Ivanti Voice Supervisor (P) Perpetual License - Powered by HEAT, Volume Only"
+7,HEAT 2014 Premise,HTVCL0004,"Ivanti Voice Web Statistics Users (P) Perpetual License - Powered by HEAT, Volume Only"
+17,HEAT 2014 Premise,HTVCL0005,"Ivanti Voice & Routing Ports (P) Perpetual License - Powered by HEAT, Volume Only"
+3,HEAT 2014 Premise,HTVCL0006,"Ivanti Voice Business Users Extensions (P) Perpetual License - Powered by HEAT, Volume Only"
+2,HEAT 2014 Premise,HTVCL0007,Voice G.729 Call Compression (P)
+7,HEAT 2014 Premise,HTVCL0008,"Ivanti Voice Back Up Perpetual License (P) Perpetual License - Powered by HEAT, Volume Only"
+51,HEAT 2014 Premise,HTVCL0009,"Ivanti Voice Agent (P) Perpetual License - Powered by HEAT, Volume Only"
+2,HEAT 2014 Premise,HVSSV0001,"Ivanti Voice Agent 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,HEAT 2014 Premise,HVSSV0004,"Ivanti Voice Supervisor 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,HEAT 2014 Premise,IPCCF0003,HEAT Plus Voice Bundle
+6,HEAT 2014 Premise,IPCCF0007,FRS Voice Communication Mgmt HEAT
+1,HEAT 2014 Premise,IPCCL0032,Web Statistics Client
+1,HEAT 2014 Premise,IPCCL0034,Web Statistics Module
+2,HEAT 2014 Premise,IPCCL0086,Web Statistics Module HEAT
+1,HEAT 2014 Premise,IPCCL0087,"Ivanti G.729 encoder/decoder Perpetual License - Powered by HEAT, Volume Only"
+2,HEAT 2014 Premise,IPCCL0091,"Ivanti FRS Voice Agent Perpetual License - Powered by HEAT, Volume Only"
+2,HEAT 2014 Premise,IPCCL0093,FRS Voice Supervisor HEAT
+2,HEAT 2014 Premise,IPCSL0004,IPCM Backup/Hot Standby Server HEAT
+2,HEAT 2014 Premise,MIG-HCLA-ISMSD-C-L,"Ivanti HEAT Classic - Migration to Service Desk Concurrent Perpetual License, Powered by HEAT"
+1,HEAT 2014 Premise,MIG-HCLA-ISMSD-F-L,"Ivanti HEAT Classic - Migration to Service Desk Fixed Perpetual License, Powered by HEAT"
+3,HEAT 2014 Premise,MIG-SDENT-ISMC-L,"Ivanti Service Desk Enterprise - Migration to Service Manager Concurrent Perpetual License, Powered by HEAT"
+6,HEAT 2014 Premise,MIG-SDENT-ISMF-L,"Ivanti Service Desk Enterprise - Migration to Service Manager Fixed Perpetual License, Powered by HEAT"
+1,HEAT 2014 Premise,MIG-SDSTD-SMSD-C-L,"Ivanti Service Desk Standard - Migration to Service Desk Concurrent Perpetual License, Powered by HEAT"
+3,HEAT 2014 Premise,MIG-SDSTD-SMSD-F-L,"Ivanti Service Desk Standard - Migration to Service Desk Fixed Perpetual License, Powered by HEAT"
+3,HEAT 2014 Premise,MIG-TUM-ISMSM-L,"Ivanti TUM Service Desk - Migration to Service Management Perpetual License, Powered by HEAT"
+22,HEAT 2014 PREMISE,SM-HD-CONC-L,"Ivanti Service Manager - Help Desk Concurrent Premise Analyst License, Powered by HEAT"
+19,HEAT 2014 PREMISE,SM-HD-FXD-L,"Ivanti Service Manager - Help Desk Fixed (Named) Premise Analyst License, Powered by HEAT"
+31,HEAT 2014 Premise,SM-SD-CONC-L,"Ivanti Service Manager - Service Desk Concurrent Premise Analyst License, Powered by HEAT"
+33,HEAT 2014 Premise,SM-SD-FXD-L,"Ivanti Service Manager - Service Desk Fixed (Named) Premise Analyst License, Powered by HEAT"
+16,HEAT 2014 PREMISE,SM-SM-CONC-L,"Ivanti Service Manager - Service Management Concurrent Premise Analyst License, Powered by HEAT"
+14,HEAT 2014 PREMISE,SM-SM-FXD-L,"Ivanti Service Manager - Service Management Fixed (Named) Premise Analyst License, Powered by HEAT"
+1,HEAT 2014 Premise,SM-UPG-C-SD-SM-L,"Ivanti Service Manager - Upgrade User License Concurrent SD-SM, Powered by HEAT"
+1,HEAT 2014 Premise,SM-UPG-F-SD-SM-L,"Ivanti Service Manager - Upgrade User License Fixed(Named) SD-SM, Powered by HEAT"
+7,HEAT 2014 PREMISE,SM-VOICE-AGENT-L,"Ivanti Service Manager - Voice Automation Agent Premise License, Powered by HEAT"
+1,HEAT 2014 Premise,SM-VOICE-BU-L,"Ivanti Service Manager - Voice Backup Premise License, Powered by HEAT"
+1,HEAT 2014 Premise,SM-VOICE-PORT-L,"Ivanti Service Manager - Voice Additional Voice and Routing Port Premise License, Powered by HEAT"
+7,HEAT 2014 Premise,SM-VOICE-SUP-L,"Ivanti Service Manager - Voice Automation Supervisor Premise License, Powered by HEAT"
+3,Heat 2014 SaaS,HTCMM0001,"Ivanti Serv Mgmt Named Monthly MSP SaaS - Powered by HEAT, Volume/Renewal Only"
+69,Heat 2014 SaaS,HTCSV0001,"Ivanti Service Management Named SaaS - Powered by HEAT, Volume/Renewal Only"
+95,Heat 2014 SaaS,HTCSV0002,"Ivanti Service Management Concurrent SaaS - Powered by HEAT, Volume/Renewal Only"
+23,Heat 2014 SaaS,HTCSV0003,Ivanti SaaS Service Catalog Cloud Subscription - Powered by HEAT
+26,Heat 2014 SaaS,HTCSV0005,"Ivanti Email Service - Production SaaS - Powered by HEAT, Volume/Renewal Only"
+13,Heat 2014 SaaS,HTCSV0006,"Ivanti Email Service - Staging SaaS - Powered by HEAT, Volume/Renewal Only"
+106,Heat 2014 SaaS,HTCSV0007,"Ivanti VPN Service SaaS - Powered by HEAT, Volume/Renewal Only"
+15,Heat 2014 SaaS,HTCSV0008,"Ivanti BI Reporting Server SaaS - Powered by HEAT, Volume/Renewal Only"
+55,Heat 2014 SaaS,HTCSV0009,"Ivanti HEAT Discovery SaaS - Powered by HEAT, Volume/Renewal Only"
+32,Heat 2014 SaaS,HTCSV0010,"Ivanti HEAT Help Desk Named SaaS - Powered by HEAT, Volume/Renewal Only"
+37,Heat 2014 SaaS,HTCSV0011,"Ivanti HEAT Help Desk Concurrent SaaS - Powered by HEAT, Volume/Renewal Only"
+2,Heat 2014 SaaS,HTCSV0012,"Ivanti HEAT Service Catalog Stand Alone SaaS - Powered by HEAT, Renewal Only"
+8,Heat 2014 SaaS,HTCSV0013,"Ivanti HEAT MDM SaaS - Powered by HEAT, Volume/Renewal Only, Renewal Only"
+1,Heat 2014 SaaS,HTCSV0014,"Ivanti HEAT Remote (P) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,Heat 2014 SaaS,HTCSV0015,HEAT Remote Cloud
+54,Heat 2014 SaaS,HTCSV0016,"Ivanti HEAT Service Desk Named SaaS - Powered by HEAT, Volume/Renewal Only"
+91,Heat 2014 SaaS,HTCSV0017,"Ivanti HEAT Service Desk Concurrent SaaS - Powered by HEAT, Volume/Renewal Only"
+3,Heat 2014 SaaS,HTCSV0020,"Ivanti HEAT Cloud Sandbox Tenant SaaS - Powered by HEAT, Renewal Only"
+2,Heat 2014 SaaS,HTMCF0001,"Ivanti HEAT Help Desk Concurrent MSP SaaS - Powered by HEAT, Renewal Only"
+2,Heat 2014 SaaS,HTMCF0002,"Ivanti HEAT Help Desk Named MSP SaaS - Powered by HEAT, Volume/Renewal Only"
+4,Heat 2014 SaaS,HTMCF0003,"Ivanti Service Management Concurrent MSP SaaS - Powered by HEAT, Renewal Only"
+1,Heat 2014 SaaS,HTMCF0004,"Ivanti Service Management Named MSP SaaS - Powered by HEAT, Renewal Only"
+4,Heat 2014 SaaS,HTMCF0005,"Ivanti Service Desk Concurrent MSP Subscription, Powered by HEAT"
+4,Heat 2014 SaaS,HTMCF0006,"Ivanti Service Desk Named MSP Subscription, Powered by HEAT"
+32,Heat 2014 SaaS,HTVSV0002,"Ivanti Voice Supervisor SaaS - Powered by HEAT, Volume/Renewal Only"
+3,Heat 2014 SaaS,HTVSV0005,"Ivanti Voice Web Statistics Users SaaS - Powered by HEAT, Volume/Renewal Only"
+5,Heat 2014 SaaS,HTVSV0006,"Ivanti Voice & Routing Ports SaaS - Powered by HEAT, Volume/Renewal Only"
+1,Heat 2014 SaaS,HTVSV0007,"Ivanti Voice Business Users Extensions SaaS - Powered by HEAT, Renewal Only"
+1,Heat 2014 SaaS,HTVSV0008,"Ivanti Voice G.729 Call Compression SaaS - Powered by HEAT, Renewal Only"
+2,Heat 2014 SaaS,HTVSV0009,"Ivanti Voice Back Up License SaaS - Powered by HEAT, Renewal Only"
+43,Heat 2014 SaaS,HTVSV0010,"Ivanti Voice Agent SaaS - Powered by HEAT, Volume/Renewal Only"
+8,Heat 2014 SaaS,IPCSV0001,"Ivanti Cloud Voice Agent SaaS - Powered by HEAT, Renewal Only"
+10,Heat 2014 SaaS,IPCSV0002,"Ivanti Cloud Voice Supervisor SaaS - Powered by HEAT, Renewal Only"
+1,Heat 2014 SaaS,IPCSV0005,HEAT Cloud Web Stats Client
+2,Heat 2014 SaaS,IPCSV0008,"Ivanti Cloud Voice and Routing Port SaaS - Powered by HEAT, Renewal Only"
+6,Heat 2014 SaaS,ISMSV0001,"Ivanti Cloud Help Desk Concurrent Bundle SaaS - Powered by HEAT, Renewal Only"
+5,Heat 2014 SaaS,ISMSV0002,HEAT Cloud Help Desk Named Bundle 1 Yr
+22,Heat 2014 SaaS,ISMSV0003,"Ivanti Cloud Service Mgnt Conc Bundle SaaS - Powered by HEAT, Renewal Only"
+7,Heat 2014 SaaS,ISMSV0004,"Ivanti Cloud Service Mgnt Named Bundle SaaS - Powered by HEAT, Renewal Only"
+3,Heat 2014 SaaS,ISMSV0005,"Ivanti Cloud Asset Management SaaS - Powered by HEAT, Renewal Only"
+1,Heat 2014 SaaS,ISMSV0020,"Ivanti Cloud Dedicated Server SaaS - Powered by HEAT, Renewal Only"
+11,Heat 2014 SaaS,ISMSV0023,"Ivanti Cloud Email Service– Production SaaS - Powered by HEAT, Volume/Renewal Only"
+2,Heat 2014 SaaS,ISMSV0024,HEAT Cloud Email Service – Staging
+24,Heat 2014 SaaS,ISMSV0025,"Ivanti HEAT Cloud VPN Service SaaS - Powered by HEAT, Volume/Renewal Only"
+1,Heat 2014 SaaS,ISMSV0026,"Ivanti SaaS Platinum - Powered by HEAT, Renewal Only"
+1,Heat 2014 SaaS,MIG-SDENT-ISMC-C,"Ivanti Service Desk Enterprise - Migration to Service Manager Concurrent Cloud SaaS Subscription, Powered by HEAT"
+2,Heat 2014 SaaS,MIG-SDENT-ISMF-C,"Ivanti Service Desk Enterprise - Migration to Service Manager Fixed Cloud SaaS Subscription, Powered by HEAT"
+1,Heat 2014 SaaS,MIG-SDSTD-SMSD-C-C,"Ivanti Service Desk Standard - Migration to Service Desk Concurrent Cloud SaaS Subscription, Powered by HEAT"
+2,Heat 2014 SaaS,MIG-SDSTD-SMSD-F-C,"Ivanti Service Desk Standard - Migration to Service Desk Fixed Cloud SaaS Subscription, Powered by HEAT"
+7,Heat 2014 SaaS,SCGSV0006,"Ivanti Cloud Service Catalog Unlimited SaaS - Powered by HEAT, Renewal Only"
+35,HEAT 2014 SAAS,SM-BI-C,"Ivanti Service Manager - SaaS BI Reporting Server Cloud Subscription, Powered by HEAT"
+3,HEAT 2014 SAAS,SM-EMP-C,"Ivanti Service Manager - SaaS Email - Production Email Service Cloud Subscription, Powered by HEAT"
+28,HEAT 2014 SAAS,SM-HD-CONC-C,"Ivanti Service Manager - Help Desk SaaS Concurrent Analyst Cloud Subscription, Powered by HEAT"
+14,HEAT 2014 SAAS,SM-HD-FXD-C,"Ivanti Service Manager - Help Desk SaaS Fixed (Named) Analyst Cloud Subscription, Powered by HEAT"
+43,HEAT 2014 SAAS,SM-SD-CONC-C,"Ivanti Service Manager - Service Desk SaaS Concurrent Analyst Cloud Subscription, Powered by HEAT"
+47,HEAT 2014 SAAS,SM-SD-FXD-C,"Ivanti Service Manager - Service Desk SaaS Fixed (Named) Analyst Cloud Subscription, Powered by HEAT"
+70,HEAT 2014 SAAS,SM-SM-CONC-C,"Ivanti Service Manager - Service Management SaaS Concurrent Analyst Cloud Subscription, Powered by HEAT"
+36,HEAT 2014 SAAS,SM-SM-FXD-C,"Ivanti Service Manager - Service Management SaaS Fixed (Named) Analyst Cloud Subscription, Powered by HEAT"
+1,Heat 2014 SaaS,SM-UPG-C-HD-SD-C,"Ivanti Service Manager - SaaS Upgrade User Subscription Concurrent HD-SD, Powered by HEAT"
+3,Heat 2014 SaaS,SM-UPG-F-SD-SM-C,"Ivanti Service Manager - SaaS Upgrade User Subscription Fixed(Named) SD-SM, Powered by HEAT"
+18,Heat 2014 SaaS,SM-VOICE-AGENT-C,"Ivanti Service Manager - SaaS Voice Automation Agent Cloud Subscription, Powered by HEAT"
+5,HEAT 2014 SAAS,SM-VOICE-PORT-C,"Ivanti Service Manager - SaaS Voice Additional Voice and Routing Port Cloud Subscription, Powered by HEAT"
+18,HEAT 2014 SAAS,SM-VOICE-SUP-C,"Ivanti Service Manager - SaaS Voice Automation Supervisor CloudSubscription, Powered by HEAT"
+78,HEAT 2014 SAAS,SM-VPN-C,"Ivanti Service Manager - SaaS VPN Cloud Subscription, Powered by HEAT"
+48,HEAT Classic,HETCL0004,"Ivanti HEAT Classic Perpetual License - Powered by HEAT, Volume Only"
+11,HEAT Classic,HMBCL0001,HEAT Mobile Field Service Named License
+3,HEAT Classic,HPKCL0001,HEAT Plus Knowledge License
+5,HEAT Classic,HPKCL0020,HEAT Plus Knowledge v 9.5 License
+6,HEAT Classic,HPKCL0021,HPK for HSS v9.5 License
+22,HEAT Classic,HSSCL0002,"Ivanti SelfService Perpetual License, Powered by HEAT, Volume Only"
+3,HEAT Classic,IPCCL0091,"Ivanti FRS Voice Agent Perpetual License - Powered by HEAT, Volume Only"
+1,HEAT Classic,IPCCL0093,FRS Voice Supervisor HEAT
+9,Heat LANrev,ABMCL0001,Absolute Manage Perpetual
+19,Heat LANrev,ABMSV0001,"Ivanti Absolute Manage Subscription - Powered by HEAT, Renewal Only"
+4,Heat LANrev,AMDCL0001,"Ivanti Absolute Manage MDM Perpetual License - Powered by HEAT, Volume Only"
+14,Heat LANrev,AMDSV0001,"Ivanti Absolute Manage MDM Subscription - Powered by HEAT, Renewal Only"
+16,Heat LANrev,HLDCL0001,"Ivanti LANrev for Mobile Devices Perpetual License - Powered by HEAT, Volume Only"
+17,Heat LANrev,HLDCL0003,"Ivanti Enterprise Mobility Management - per Device License, Powered by Heat"
+3,Heat LANrev,HLDSV0001,"Ivanti LANrev for Mobile Devices 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,Heat LANrev,HLDSV0002,"Ivanti LANrev for Mobile Devices 2Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+3,Heat LANrev,HLDSV0003,"Ivanti LANrev for Mobile Devices 3Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+5,Heat LANrev,HLDSV0007,"Ivanti Enterprise Mobility Management - per Device 3 Year Subscription, Powered by Heat"
+7,Heat LANrev,HLDSV0008,"Ivanti Enterprise Mobility Management - per Device 1 Year Subscription, Powered by Heat"
+1,Heat LANrev,HLMCF0001,"Ivanti Endpoint Management LANrev - per User License, Powered by Heat"
+1,Heat LANrev,HLMCF0003,"Ivanti Endpoint Management LANrev - per User Subscription 1 Year Term, Powered by Heat"
+27,Heat LANrev,HLRCL0001,"Ivanti LANrev Perpetual License - Powered by HEAT, Volume Only"
+25,Heat LANrev,HLRCL0003,"Ivanti Endpoint Management LANrev - per Device License, Powered by Heat"
+6,Heat LANrev,HLRSV0001,"Ivanti LANrev 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,Heat LANrev,HLRSV0002,"Ivanti LANrev 2Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+6,Heat LANrev,HLRSV0003,"Ivanti LANrev 3Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+4,Heat LANrev,HLRSV0008,"Ivanti Endpoint Management LANrev - per Device Subscription 1 Year Term, Powered by Heat"
+1,Heat LANrev,HLRSV0009,"Ivanti Endpoint Management LANrev - per Device Subscription 2 Year Term, Powered by Heat"
+3,Heat LANrev,HLRSV0010,"Ivanti Endpoint Management LANrev - per Device Subscription 3 Year Term, Powered by Heat"
+6,HIPS,LDHIP-L,"Ivanti Host Intrusion Prevention - Add-on to Ivanti MS or Patch, powered by Landesk"
+7,HT OEM,OEMDCSV01,Ivanti OEM Royalty Device Control API Subscription - Powered by HEAT
+45,HT OEM,OEMPMCL01,Ivanti OEM Royalty Patch Management API Perpetual License - Powered by HEAT
+150,HT OEM,OEMPMMT01,Ivanti OEM Royalty Patch Management API Maintenance - Powered by HEAT
+204,HT OEM,OEMPMSV01,Ivanti OEM Royalty Patch Management API Subscription - Powered by HEAT
+1,HT OEM,OEMPWSV01,Ivanti OEM Royalty Patch Management Web Service and API Subscription - Powered by HEAT
+2,Insight,IN GSP 03 H,"Insight Proof of Concept up to 1,000 seats - 90 day subscription"
+124,Insight,IN LIC 00 F,Insight License
+124,Insight,IN LIC 00 F,"Insight Licence - Additional Seat over 1,000"
+8,Insight,IN LIC 00 S,"Insight Licence - Server Software up to 1,000 seats"
+11,IT Asset Manager,ITAM-AM-S,"Ivanti Asset Manager, powered by Landesk"
+1,IT Asset Manager,ITAM-DCDCMD-SERV-L,ITAM - Data Center Discovery - CMDB Server License
+1,IT Asset Manager,ITAM-DCDSAM-SERV-L,ITAM - Data Center Discovery - SAM Server License
+1,IT Asset Manager,ITAM-DCDSAM-SITE-L,ITAM - Data Center Discovery - SAM Site License
+11,IT Asset Manager,ITAM-LOC-S,"Ivanti License Optimizer SaaS Subscription for Clients, powered by Landesk"
+7,IT Asset Manager,ITAM-LOS-S,"Ivanti License Optimizer SaaS Subscription for Servers, powered by Landesk"
+18,IT Asset Manager,LDITAM-AC-L,"Asset Central Lic, powered by Landesk"
+11,IT Asset Manager,LDITAM-ACSVR-L,"Asset Central SVR Lic (Incl 5 Fixed An.), powered by Landesk"
+52,IT Asset Manager,LDITAM-AI-L,"Asset Intelligence Lic, powered by Landesk"
+1,IT Asset Manager,LDITAM-CONC-LOPS,"License Optimizer Implementation Services - PS Day, powered by Landesk"
+45,IT Asset Manager,LDITAM-L,"Ivanti IT Asset Management Suite License, powered by Landesk"
+2,IT Asset Manager,LDITAM-LOC-S,"License Optimizer Core Service Subscription, powered by Landesk"
+8,IT Asset Manager,LDITAM-LOED-S,"License Optimizer Enterprise Desktop OS Subscription, powered by Landesk"
+8,IT Asset Manager,LDITAM-LOES-S,"License Optimizer Enterprise Server Subscription, powered by Landesk"
+8,IT Asset Manager,LDITAMSVR-L,ITAM Suite Server LIC (incl 5 fixed analysts)
+3,ITSM Core,CFMCL0088,"Ivanti Configuration 6.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+2,ITSM Core,CFMCL0135,"Ivanti Config v7 Enterprise Edition Named Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,CFMCL0136,Configuration v7 Enterprise Edition Concurrent License
+3,ITSM Core,CFMCL0138,AdHoc Configuration 7.X Concurrent Lic
+1,ITSM Core,CFMSL0001,Configuration Server
+5,ITSM Core,CHMCL0088,"Ivanti Change 6.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,CHMCL0135,Change v7 Enterprise Edition Named License
+4,ITSM Core,CHMCL0136,Change v7 Enterprise Edition Concurrent License
+4,ITSM Core,CHMCL0138,"Ivanti AdHoc Change 7.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,CHMSL0001,Change Server
+1,ITSM Core,ELGCL0013,DSM Personality Migration License - Addon for DSM for Migration
+3,ITSM Core,EOICL0004,DSM OS Imaging License - Addon for DSM for OS Deployment
+1,ITSM Core,FNDCL0199,"Ivanti ITSM Production - Hot Standby Perpetual License - Powered by HEAT, Volume Only"
+8,ITSM Core,FNDCL0281,"Ivanti Foundation 6.X Perpetual License - Powered by HEAT, Volume Only"
+2,ITSM Core,HLDCL0003,"Ivanti Enterprise Mobility Management - per Device License, Powered by Heat"
+1,ITSM Core,HLRCL0003,"Ivanti Endpoint Management LANrev - per Device License, Powered by Heat"
+1,ITSM Core,HLRSV0008,"Ivanti Endpoint Management LANrev - per Device Subscription 1 Year Term, Powered by Heat"
+5,ITSM Core,HSBCL00001,"Ivanti Server Management SBC User License, Powered by Heat"
+1,ITSM Core,HTDCF0015,Ivanti DSM Perpetual License - Formerly HEAT Client Management DSM
+2,ITSM Core,ICMCL0118,"Ivanti Incident 6.X Named Perpetual License - Powered by HEAT, Volume Only"
+5,ITSM Core,ICMCL0120,"Ivanti Incident 6.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,ICMCL0186,"Ivanti AdHoc Incident 7.X Named Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,ICMSL0001,Incident Server
+6,ITSM Core,IFSCL0001,ITSM Mobile Field Service Named License
+2,ITSM Core,IPCCF0001,FRS Voice Communication Mgmt
+2,ITSM Core,IPCCL0011,Outbound Server Module
+2,ITSM Core,IPCCL0032,Web Statistics Client
+2,ITSM Core,IPCCL0034,Web Statistics Module
+1,ITSM Core,IPCCL0044,Outbound Autodial Line
+1,ITSM Core,IPCCL0048,Voice Self Service Package
+1,ITSM Core,IPCCL0073,FRS Voice Agent
+5,ITSM Core,IPCSL0002,IPCM Backup/Hot Standby Server
+1,ITSM Core,ISKCL0047,"Ivanti ITSM Knowledge Mgmt 6.X Named Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,ISKCL0049,"Ivanti ITSM Knowledge Mgmt 6.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+2,ITSM Core,ISKCL0056,"Ivanti ITSM Knowledge for Self Service 6.X Perpetual License - Powered by HEAT, Volume Only"
+2,ITSM Core,ISKCL0135,ITSM Knowledge Mgmt v7 Enterprise Edition Named
+4,ITSM Core,ISKCL0136,ITSM Knowledge Mgmt v7 Enterprise Edition Concurrent
+17,ITSM Core,ISKCL0137,ITSM Knowledge for Self Service v7 Enterprise Edition
+15,ITSM Core,ISMCF0003,"Ivanti ITSM v7 Service Desk Problem Conc Perpetual License - Powered by HEAT, Volume Only"
+6,ITSM Core,ISMCF0004,ITSM v7 Enterprise Bundle Conc
+5,ITSM Core,ISMCF0006,"Ivanti ITSM v7 Service Desk Problem Named Perpetual License - Powered by HEAT, Volume Only"
+6,ITSM Core,ISMCF0008,ITSM v7 Enterprise Bundle Named
+10,ITSM Core,ISMCF0010,"Ivanti ITSM v7 Service Desk Knowledge Conc Perpetual License - Powered by HEAT, Volume Only"
+5,ITSM Core,ISMCF0012,"Ivanti ITSM v7 Service Desk Knowledge Named Perpetual License - Powered by HEAT, Volume Only"
+2,ITSM Core,PRMCL0087,"Ivanti Problem 6.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,PRMCL0135,Problem v7 Enterprise Edition Named License
+1,ITSM Core,PRMCL0138,AdHoc Problem 7.X Concurrent License
+1,ITSM Core,PRMSL0001,Problem Server
+1,ITSM Core,QMTCL0005,"Ivanti Quality Mgmt (Call Recording) Port Perpetual License - Powered by HEAT, Volume Only"
+6,ITSM Core,QMTCL0009,"Ivanti Quality Mgmt (Call Recording) Mod Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,RLMCL0137,AdHoc Release 7.X Named License
+1,ITSM Core,RLMCL0138,AdHoc Release 7.X Concurrent License
+6,ITSM Core,SCGCL0001,Service Catalog License
+9,ITSM Core,SCGCL0003,Service Catalog Unlimited License
+2,ITSM Core,SEMCL0038,"Ivanti ITSM Enhanced Self Service v6.X Perpetual License - Powered by HEAT, Volume Only"
+25,ITSM Core,SEMCL0067,ITSM Enhanced Self Service v7 Enterprise Edition
+1,ITSM Core,SLMCL0088,"Ivanti SLM 6.X Concurrent Perpetual License - Powered by HEAT, Volume Only"
+1,ITSM Core,SLMCL0136,"Ivanti SLM v7 Enterprise Edition Concurrent Perpetual License - Powered by HEAT, Volume Only"
+5,ITSM Core,SLMCL0138,AdHoc SLM 7.X Concurrent License
+1,LAN Desk (other),11-CS-7XG,CloudSync Encryption TG 500-999 Licenses
+12,LAN Desk (other),CMGEME-L,Credant Tech CMG External Media Encryption (Per Device)
+117,LAN Desk (other),CMGENT-L,Credant Tech CMG Enterprise (Per Device)
+30,LAN Desk (other),CMGENTS100-L,Credant Tech CMG SRVR(Up To 100 Devices)
+15,LAN Desk (other),CMGENTS250-L,Credant Tech CMG SRVR(Up To 250 Devices)
+41,LAN Desk (other),CMGENTS25K-L,Credant Tech CMG SRVR(Up To 25K Devices)
+18,LAN Desk (other),CMGENTS500-L,Credant Tech CMG SRVR(Up To 500 Devices)
+4,LAN Desk (other),CMGMDSVR-L,Credant Tech CMG Server Multi Domain upgrade License (2 additional domains)
+30,LAN Desk (other),HE-LDENCR-E,Encryption Subscription (HE FTE)
+29,LAN Desk (other),HE-LDMO-E,"Ivanti Mobility Manager Subscription FTE, powered by Landesk"
+11,LAN Desk (other),LD-AGENCY-L,Ivanti Agency Model - License
+1,LAN Desk (other),LD-AGENCY-S,Ivanti Agency Model - Subscription
+1,LAN Desk (other),LDCRD-L-EDCLS,Lenovo Classroom Director-Education Single Classroom less than 10 nodes
+4,LAN Desk (other),LD-MEDIA,Media
+2,LAN Desk (other),LDMO-E,"Ivanti Mobility Manager Sub K-12 FTE, powered by Landesk"
+228,LAN Desk (other),LDMO-L,"Ivanti Mobility Manager Add-On To Ivanti MS License, powered by Landesk"
+75,LAN Desk (other),LDMO-L-PROMO,LANDesk® Mobility Manager License Promo
+4,LAN Desk (other),LDSDK-L,LANDESK SOFTWARE DEVELOPMENT KIT
+58,LAN Desk (other),LHPM-L,Lenovo Hardware Password Manager
+7,LAN Desk (other),LVMO-L,LENOVO MOBILITY MANAGER LIC
+8,LAN Desk (other),PETOOLKIT,LANDESK PE TOOLKIT
+1,LAN Desk (other),SMCP-S-109,SMC PRO ANNUAL SUB 10-999
+1,LAN Desk (other),WMSDFDE-E,Ivanti Winmagic Encryption Sub - FTE
+53,LAN Desk (other),WMSDFDE-L,WinMagic FDE Lic
+2,LAN Desk (other),WMSDFFE-L,WinMagic FFE Lic
+58,LDHM,LDHM-L,"Ivanti Handheld Manager, powered by Landesk"
+58,LDHM,LDHM-L,LANDesk Handheld Manager
+191,LDIM (Inventory Manager),LDIM-L,"Ivanti Inventory Manager, powered by Landesk"
+820,LDMG (Management Gateway),LDMG1000-001,"Cloud Services/Management Gateway Appliance Nema 5-15 (US, CA, MX)"
+4,LDMG (Management Gateway),LDMG1000-001-PRMO2,LANDESK CLOUD SERVICES APPLIANCE PROMO 2
+3,LDMG (Management Gateway),LDMG1000-001-PROMO,LANDESK CLOUD SERVICES APPLIANCE PROMO
+4,LDMG (Management Gateway),LDMG1000-101,"Cloud Services/Management Gateway Appliance Nema 5-15 (TW, TH)"
+7,LDMG (Management Gateway),LDMG1000-102,"Cloud Services/Management Gateway Appliance BS 1363 (SG, HK)"
+16,LDMG (Management Gateway),LDMG1000-103,Cloud Services/Management Gateway Appliance GB1002 (CN)
+18,LDMG (Management Gateway),LDMG1000-105,Cloud Services/Management Gateway Appliance JIS-8303 (JP)
+3,LDMG (Management Gateway),LDMG1000-106,Cloud Services/Management Gateway Appliance BS 546 (IN)
+4,LDMG (Management Gateway),LDMG1000-107,"Cloud Services/Management Gateway Appliance AS 3112 (AU, NZ)"
+73,LDMG (Management Gateway),LDMG1000-201,Cloud Services/Management Gateway Appliance BS 1363 (PK)
+73,LDMG (Management Gateway),LDMG1000-201,"Cloud Services/Management Gateway Appliance BS 1363 (UK, IE, PK)"
+138,LDMG (Management Gateway),LDMG1000-202,Cloud Services/Management Gateway Appliance CEE-7/7 (EU)
+4,LDMG (Management Gateway),LDMG1000-203,Cloud Services/Management Gateway Appliance SEC 1011 (CH)
+937,LDMG (Management Gateway),LDVCSA-L,Ivanti Virtual Cloud Svcs Appliance Lic
+2,LDMG (Management Gateway),LDVCSA-L-PROMO,VIRTUAL CLOUD SERVICES APP LIC PROMO
+5,LDMG (Management Gateway),LDVCSA-L-PROMO2,VIRTUAL CLOUD SERVICES APP LIC PROMO 2
+1,LDMG (Management Gateway),LDVMG-L,LANDESK VIRTUAL MANAGEMENT GATEWAY LIC
+1,LDMS,IMIGMAN-L,"Ivanti Migration Manager Perpetual License (Tranxition), Powered by LANDESK"
+14,LDMS,LDDA-L-MSP,"Ivanti Data Analytics Lic MSP, powered by Landesk"
+271,LDMS,LDIM-L,"Ivanti Inventory Manager, powered by Landesk"
+2,LDMS,LDMS6MO-L,"Ivanti Management Suite 6 Month Project, powered by Landesk"
+296,LDMS,LDMS-E,Ivanti Endpoint Manager FTE
+4,LDMS,LDMSHOST-S,"EPM Hosting Fee, formerly LDMS"
+9086,LDMS,LDMS-L,Ivanti Endpoint Manager
+96,LDMS,LDMS-L-01,LANDesk Management Suite 1-499 Nodes
+28,LDMS,LDMS-L-02,LANDesk Management Suite 500-999 Nodes
+28,LDMS,LDMS-L-03,LANDesk Management Suite 1000-1999 Nodes
+26,LDMS,LDMS-L-04,LANDesk Management Suite 2000-4999 Nodes
+10,LDMS,LDMS-L-05,LANDesk Management Suite 5000-9999 Nodes
+12,LDMS,LDMS-L-06,LANDesk Management Suite 10000+ Nodes
+195,LDMS,LDMS-L-MSP,"Ivanti Endpoint Manager MSP, powered by Landesk (formerly Management Suite)"
+1,LDMS,LDMS-L-PROMO,"Ivanti Management Suite Lic Promo, powered by Landesk"
+1,LDMS,LDMS-L-SS-ADDN,"Ivanti Management Suite Add-on to IvantiSS, powered by Landesk"
+153,LDMS,LDMS-L-UPG,"Ivanti EPM UPGRADE (FROM EARLIER VERSION), powered by Landesk (formerly Management Suite)"
+2,LDMS,LDMSMYUP-M-E,"EPM MID-YEAR UPGRADE PROTECTION, formerly LDMS"
+2,LDMS,LDMSMYUP-M-E,LANDesk Management Suite PMA to EMA Upgrade (Mid-term Only)
+9,LDMS,LDMS-S,"Ivanti Endpoint Manager SUBSCRIPTION, powered by Landesk (formerly Management Suite)"
+8,LDMS,LDMSSAAS-S,"Endpoint Manager Cloud Subscription, powered by Landesk (formerly Management Suite)"
+793,LDMS,LDMSSMB-L,"Ivanti Endpoint Manager LIC SMB, powered by Landesk (formerly Management Suite)"
+5,LDMS,LDMSSMB-L-TVT,LANDESK MANAGEMENT SUITE LIC-LENOVO TVT
+9,LDMS,LDMSSUP-M,"Ivanti Endpoint Manager SUP, powered by Landesk (formerly Management Suite)"
+23,LDMS,LDMSTVT-L,"Ivanti Endpoint Manager FOR TVT LICENSE, powered by Landesk (formerly Management Suite)"
+5,LDMS,LDMSTVTUPG-L,"Ivanti Endpoint Manager FOR TVT LIC UPG, powered by Landesk (formerly Management Suite)"
+4,LDMS,LDSV-L-UPG,LANDesk Server Manager Upgrade (from earlier version)
+1,LDMS,LMM-L,"Ivanti Mobility Manager, powered by Landesk"
+1,LDMS,UEM-SUITE-L,Ivanti Unified Endpoint Management Suite Perpetual License
+11,LetMobile,LDLTMBL-L,LetMobile License
+2,LetMobile,LDLTMBLSAAS-S,LetMobile SaaS Subscription 1 Yr
+3,LetMobile,LDMBLSSNB-L,"Ivanti Mobile Sec Suite Lic - Node Based, powered by Landesk"
+2,LetMobile,LDMBLSSSAAS-S,"Ivanti Mobile Sec Suite - SaaS - User Based, powered by Landesk"
+1,LetMobile,LDMBLSSUB-L,"Ivanti Mobile Sec Suite Lic - User Based, powered by Landesk"
+17,Managed Planet,HE-LDDA-E,"Ivanti Data Analytics Subscription, powered by Landesk"
+10,Managed Planet,LDDAACL-L,"Ivanti Data Analytics Asset Control Lic, powered by Landesk"
+17,Managed Planet,LDDADTSAC-L,"Ivanti Data Analytics DTS And Asset Lic, powered by Landesk"
+448,Managed Planet,LDDADTSERPAC-L,"Ivanti Data Analytics DTS ERP Asset Lic, powered by Landesk"
+8,Managed Planet,LDDADTSERPAC-L-PMO,LD Data Analytics DTS ERP AC Lic Promo
+1,Managed Planet,LDDADTSERPAC-L-UPG,"Ivanti DA DTS ERP Asset Lic UPG, powered by Landesk"
+2,Managed Planet,LDDADTSERPAC-S,"Ivanti Data Analytic DTS ERP AC Bnd Sub, powered by Landesk"
+48,Managed Planet,LDDADTSERP-L,"Ivanti Data Analytics DTS ERP Bndle Lic, powered by Landesk"
+20,Managed Planet,LDDADTS-L,"Ivanti Data Analytics Data Tran Svc Lic, powered by Landesk"
+2,Managed Planet,LDDAERPTP-L,LANDESK DATA ANALYTICS EXEC RPT PACK LIC
+1,Managed Planet,LDDAMSDC-L,"Ivanti Data Analytic MS Data Center Lic, powered by Landesk"
+44,Managed Planet,LDDAMSSC-L,"Ivanti Data Analytics For MS Data Center Lic, powered by Landesk"
+4,Managed Planet,LDDAMSSC-S,"Ivanti Data Analytics For MSSC Sub, powered by Landesk"
+3,Managed Planet,LDDASAAS-S,"Ivanti Data Analytics DTS ERP Asset Lic, powered by Landesk"
+2,Managed Planet,LDDASS-L,"Ivanti Data Analytic Software Store Lic, powered by Landesk"
+2,Managed Planet,MPACL-L,Managed Planet Asset Control License
+1,Managed Planet,MPACL-L-PROMO,MP Asset Control License Promo
+13,Managed Planet,MPDTSAC-L,Managed Planet Data Translation Services and Asset Control Bundle LIC
+5,Managed Planet,MPDTSAC-L-PROMO,MP DTS and AC Bundle License Promo
+73,Managed Planet,MPDTSERPAC-L,"Managed Planet DTS, ERP and Asset Control Bundle LIC"
+16,Managed Planet,MPDTSERPAC-L-PROMO,"MP DTS, ERP and AC Bundle License Promo"
+10,Managed Planet,MPDTSERP-L,Managed Planet Data Translation Services and ERP Bundle LIC
+2,Managed Planet,MPDTSERP-L-PROMO,MP DTS and ERP Bundle License Promo
+11,Managed Planet,MPDTS-L,Managed Planet Data Translation Service License
+2,Managed Planet,MPDTS-L-PROMO,MP Data Translation Services LIC Promo
+2,Managed Planet,MPERPTP-L,Managed Planet Executive Report Pack License
+2,Managed Planet,MPSS-L,Managed Planet Software Store LIC
+11,MobileNow,MN GSP 12 D,MobileNow 1 year Single Device Access Subscription
+41,MobileNow,MN GSP 12 U,MobileNow 1 year Single User Access
+25,MobileNow,MN GSP 12 UB,1 year Mobile Bundle
+2,MobileNow,MNA GSP 12 D,MobileNow 1 year Single Device Access
+2,MobileNow,MNA GSP 12 U,MobileNow 1 year Single User Access
+2,MobileNow,MNA GSP 36 U,MobileNow 3 year Single User Access
+1,MobileNow,MNB GSP 12 U,MobileNow 1 year Single User Access
+2,Nexthink,NXTHINKSVRBNDL-L,Nexthink Server Bundle License
+14,Nexthink,NXTHNK-L,Nexthink Bundle License
+2,Nexthink,NXTHNK-S,Nexthink Bundle Subscription
+1,OEM,OEM-LDROYALTY,JSI OEM Royalty
+439,OEM Licenced Royalties,OEM-LDROYALTY,JSI OEM Royalty
+2,OEM licensed royalties,OEM-LDROYALTY,JSI OEM Royalty
+2,Patch Manager,LDCCS-2003-S,"Ivanti Custom Content Support Sub - Win2003, powered by Landesk"
+7,Patch Manager,LDCCS-S,"Ivanti Custom Content Support, powered by Landesk"
+1,Patch Manager,LDCCS-XP-S,"Ivanti Custom Content Support Sub - WinXP, powered by Landesk"
+28,Patch Manager,LDMSLITE-BR,LENOVO LDMS LITE PATCH SUB AND MAINT
+1100,Patch Manager,LDPMAO-L,"Ivanti Patch Manager License (Add-on to Ivanti MS), powered by Landesk"
+47,Patch Manager,LDPM-E,"Ivanti Patch Manager FTE (Stand Alone Product), powered by Landesk"
+254,Patch Manager,LDPM-L,"Ivanti Patch Manager (Stand Alone Product), powered by Landesk"
+47,Patch Manager,LDPM-L-MSP,"Ivanti Patch Manager MSP-Stand Alone, powered by Landesk"
+4595,Patch Manager,LDPM-S,"Ivanti Patch Manager - Subscription, powered by Landesk"
+4595,Patch Manager,LDPM-S,LANDesk Patch Manager Add-On Subscription to LDMS for TVT's
+84,Patch Manager,LDPM-S-MSP,"Ivanti Patch for Endpoint Manager Monthly MSP, powered by Landesk"
+3,PatchLink,ES-SV-S,"Ivanti Endpoint Security for Server Subscription, powered by HEAT"
+8,PatchLink,ES-SV-S-MSP,"Ivanti Endpoint Security for Server Monthly MSP, powered by HEAT"
+6,PatchLink,ES-WS-S,"Ivanti Endpoint Security for Workstation Subscription, powered by HEAT"
+22,PatchLink,ES-WS-S-MSP,"Ivanti Endpoint Security for Workstation Monthly MSP, powered by HEAT"
+48,PatchLink,HPECL0001,"Ivanti HEAT PatchLink (P&R) Perpetual License - Powered by HEAT, Volume Only"
+6,PatchLink,HPESV0001,"Ivanti HEAT PatchLink (P&R) 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+20,PatchLink,P-SV-L,"Ivanti Patch for Linux Unix License, powered by HEAT"
+6,PatchLink,P-SV-S,"Ivanti Patch for Linux Unix Subscription 1 Yr, powered by HEAT"
+20,PatchLink,P-WS-L,"Ivanti Patch for Mac License, powered by HEAT"
+5,PatchLink,P-WS-S,"Ivanti Patch for Mac Subscription, powered by HEAT"
+4,PatchLink,S-P-SV-L,"Ivanti Patch for Linux Unix License, powered by HEAT"
+1,PatchLink,S-P-SV-S,"Ivanti Patch for Linux Unix Subscription 1 Yr, powered by HEAT"
+1,PatchLink,S-P-WS-L,"Ivanti Patch for Mac License, powered by HEAT"
+1,Performance Manager,PM GSP 01 H,Performance Manager Hosted - 1 Month Subscription License
+85,Performance Manager,PM LIC 00 F,"Performance Manager - Named User License, powered by AppSense"
+7,Performance Manager,PM LIC 00 P,Performance Manager - Single Platform Licence - Named User
+93,Performance Manager,PM LIC 00 T,"Performance Manager - Concurrent User License, powered by AppSense"
+93,Performance Manager,PM LIC 00 T,Performance Manager -User License - Terminal Server
+1,Performance Manager,PM LIC 00 TS,Performance Manager - Terminal Server License
+11,Power Management,LDPW-L,LANDesk Power Manager
+2,Process Manager,LDPIMI,"Ivanti Process Integration Module (Category I), powered by Landesk"
+1,Process Manager,LDPIMII,LANDesk Process Integration Module (Category II)
+40,Process Manager,LDPR-L,LANDESK PROCESS MANAGER
+1,Process Manager,LDPR-L-PROMO,LANDESK PROCESS MANAGER LIC - PROMO
+1,Process Manager,LDPR-L-PROMO,LANDesk Process Manager Promotional Add-on to existing licenses
+25,Protect,LD-SHPROSV-L,"Ivanti Patch for Windows for Server License, powered by Shavlik (fka Shavlik Protect)"
+1,Protect,PRT LIC 00 F,"Ivanti Protect for Ivanti DesktopNow - Named User License, powered by Shavlik"
+2,Protect,S-ADV-SV-2G-TLSS-C,Shavlik Protect Advanced for Server: Term License + Basic Support/Subscription for 2 years
+1,PROTECT,S-ADV-SV-2P-TLSS-C,Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 2 years
+4,Protect,S-ADV-SV-3G-TLSS-C,Shavlik Protect Advanced for Server: Term License + Basic Support/Subscription for 3 years
+5,PROTECT,S-ADV-SV-3P-TLSS-C,Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 3 years
+24,PROTECT,S-ADV-SV-G-TLSS-C,Shavlik Protect Advanced for Server: Term License + Basic Support/Subscription for 1 year
+28,PROTECT,S-ADV-SV-P-TLSS-C,Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 1 year
+6,PROTECT,S-ADV-SV-P-TLSS-F,U.S. Federal Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 1 year
+1,PROTECT,S-ADV-WS-2P-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 2 years
+4,Protect,S-ADV-WS-3G-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Basic Support/Subscription for 3 years
+9,Protect,S-ADV-WS-3P-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 3 years
+27,Protect,S-ADV-WS-G-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Basic Support/Subscription for 1 year
+1,Protect,S-ADVWSGTLSS-C-R,Shavlik Protect Advanced for Workstation: Term License + Basic Support/Subscription for 1 year - Renewal
+22,Protect,S-ADV-WS-P-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,S-ADVWSPTLSS-C-R,Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 1 year - Renewal
+1,Protect,S-ADV-WS-P-TLSS-F,U.S. Federal Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 1 year
+6,Protect,S-AV-P-TLSS-C,Shavlik Protect Antivirus Add-On: Term License + Production Support/Subscription for 1 Year
+7,Protect,S-CPC-G-TLSS-C,"Ivanti Custom Patch Content Subscription + Support 1 Yr, powered by Shavlik"
+1,Protect,S-CPCGTLSS-C-R,"Ivanti Custom Patch Content Subscription + Support - 1 yr - Renewal, powered by Shavlik"
+1,Protect,S-CSL-2G-TLSS-C,Shavlik Protect Console: Term License + Basic Support/Subscription for 2 years
+1,Protect,S-CSL-3G-TLSS-C,Shavlik Protect Console: Term License + Basic Support/Subscription for 3 years
+1,Protect,S-CSL-3P-TLSS-C,"Ivanti Protect Console: Term License + Support/Subscription for 3 years, powered by Shavlik"
+25,Protect,S-CSL-C,"Ivanti Protect Console, powered by Shavlik"
+2,Protect,S-CSL-F,"U.S. Federal Ivanti Protect Console, powered by Shavlik"
+6,Protect,S-CSL-G-TLSS-C,Shavlik Protect Console: Term License + Basic Support/Subscription for 1 year
+5,PROTECT,S-CSL-P-TLSS-C,"Ivanti Protect Console: Term License + Support/Subscription for 1 year, powered by Shavlik"
+1,PROTECT,S-FAO-SV-3P-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Production Support/Subscription for 3 years
+1,Protect,S-FAO-SV-G-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Basic Support/Subscription for 1 year
+2,Protect,S-FAO-SV-P-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Production Support/Subscription for 1 year
+2,PROTECT,S-FAO-SV-P-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,S-FAO-WS-2P-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Production Support/Subscription for 2 years
+1,PROTECT,S-FAO-WS-P-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,SH-CMPTS-UG-G-TLSS-C,Shavlik Configure Migration to vCenter Protect Feature Upgrade for Server - 1 Yr Term License + Basic SNS
+1,Protect,SH-CMPTS-UG-G-TLSS-F,U.S. Federal Shavlik Configure Migration to vCenter Protect Feature Upgrade for Server - 1 Yr Term Lic + Basic SNS
+1,Protect,SH-CMPTW-UG-G-TLSS-C,Shavlik Configure Migration to vCenter Protect Feature Upgrade for Workstation - 1 Yr Term License + Basic SNS
+1,Protect,SH-CMPTW-UG-G-TLSS-F,U.S. Federal Shavlik Configure Migration to vCenter Protect Feature Upgrade for Workstation - 1 Yr Term Lic + Basic SNS
+44,Protect,SH-MPTS-UG-G-TLSS-C,Shavlik AV or PM Migration to vCenter Protect Feature Upgrade for Server - 1 Yr Term License + Basic SNS
+46,Protect,SH-MPTW-UG-G-TLSS-C,Shavlik AV or PM Migration to vCenter Protect Feature Upgrade for Workstation - 1 Yr Term License + Basic SNS
+1,Protect,SKBI-SSI1000-PPL,Shavlik Security Intelligence (<1000)
+6,Protect,SKEP-PROFEE-EXP,Processing Fee Expense
+2,Protect,SKNP-AU7XS-ADD,Protect 7.X for Servers (Audit Edition) (Add On)
+1,Protect,SKNP-AU7XSG-PPL,Shavlik Legacy - Protect 7.X Gov't Edition for Servers (Audit Edition)
+28,Protect,SKNP-AU7XS-PPL,Shavlik Legacy - Protect 7.X for Servers (Audit Edition)
+1,Protect,SKNP-AU7XWG-PPL,Shavlik Legacy - Protect 7.X Gov't Edition for Workstations (Audit Edition)
+12,Protect,SKNP-AU7XW-PPL,Shavlik Legacy - Protect 7.X for Workstations (Audit Edition)
+1,Protect,SKNP-AV7XS-CER1-ISUB,"DO NOT SELL Antivirus 7.X Server Subscription, with Certified Ptr Technical Support Services, 1 Year Initial"
+4,Protect,SKNP-AV7XS-STD1-ISUB,"DO NOT SELL Antivirus 7.X Server Subscription, with Standard Technical Support Services, 1 Year Initial"
+1,Protect,SKNP-AV7XS-STD1-RSUB,"DO NOT SELL Antivirus 7.X Server Subscription, with Standard Technical Support Services, 1 Year Renewal"
+2,Protect,SKNP-AV7XS-STD3-ISUB,"DO NOT SELL Antivirus 7.X Server Subscription, with Standard Technical Support Services, 3 Year Initial"
+8,Protect,SKNP-AV7XW-STD1-ISUB,"DO NOT SELL Antivirus 7.X Workstation Subscription, with Standard Technical Support Services, 1 Year Initial"
+1,Protect,SKNP-AV7XW-STD1-RSUB,"DO NOT SELL Antivirus 7.X Workstation Subscription, with Standard Technical Support Services, 1 Year Renewal"
+1,Protect,SKNP-AV7XW-STD3-ISUB,"DO NOT SELL Antivirus 7.X Workstation Subscription, with Standard Technical Support Services, 3 Year Initial"
+2,Protect,SKNP-NP6XC-ADD,Protect 6.5 (Distributed Policy Manager - Console Add-On)
+1,Protect,SKNP-NP6XS-ADD,Protect 6.0 (Server Edition) - Additional Seats
+211,Protect,SKNP-NP7XC-ADD,VMware vCenter Protect Essentials Console
+12,Protect,SKNP-NP7XCG-ADD,U.S. Federal VMware vCenter Protect Essentials Console
+1191,Protect,SKNP-NP7XS-ADD,Protect 7.X for Servers (Add On)
+6,Protect,SKNP-NP7XSAV-ADD,Protect 7.X + AV for Servers (Add On)
+1,Protect,SKNP-NP7XSAVPM-PPL,Protect 7.X + AV + PM for Servers
+3,Protect,SKNP-NP7XSAVPM-UPG,Upgrade Protect to Protect 7.X + AV + PM (Servers)
+12,Protect,SKNP-NP7XSAV-PPL,Protect 7.X + AV for Servers
+1,Protect,SKNP-NP7XSAV-UPG,Upgrade Protect to Protect 7.X + AV (Servers)
+2,Protect,SKNP-NP7XS-CER1-ISUB,"DO NOT SELL Protect 7.X Server Subscription, with Certified Ptr Support Services, 1 Year Initial"
+84,Protect,SKNP-NP7XS-ENH1-ISUB,VMware vCenter Protect Essentials for Server: Term License + Production Support/Subscription for 1 year
+4,Protect,SKNP-NP7XS-ENH2-ISUB,VMware vCenter Protect Essentials for Server: Term License + Production Support/Subscription for 2 years
+20,Protect,SKNP-NP7XS-ENH3-ISUB,VMware vCenter Protect Essentials for Server: Term License + Production Support/Subscription for 3 years
+57,Protect,SKNP-NP7XSG-ADD,Protect 7.X Gov't Edition for Servers (Add On)
+1,Protect,SKNP-NP7XSGAVPM-PPL,Protect 7.X + AV + PM Gov't Edition for Servers
+4,Protect,SKNP-NP7XSGAV-PPL,Protect 7.X + AV Gov't Edition for Servers
+1,Protect,SKNP-NP7XSG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Essentials for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,SKNP-NP7XSGPM-PPL,Protect 7.X + PM Gov't Edition for Servers
+3,Protect,SKNP-NP7XSGPM-UPG,Upgrade Protect to Protect 7.X + PM Gov't Edition (Servers)
+128,Protect,SKNP-NP7XSG-PPL,U.S. Federal VMware vCenter Protect Essentials for Server
+4,Protect,SKNP-NP7XSG-STD1-ISUB,U.S. Federal VMware vCenter Protect Essentials for Server: Term License + Basic Support/Subscription for 1 year
+3,Protect,SKNP-NP7XSPM-PPL,Protect 7.X + PM for Servers
+20,Protect,SKNP-NP7XSPM-UPG,Upgrade Protect to Protect 7.X + PM (Servers)
+1139,Protect,SKNP-NP7XS-PPL,VMware vCenter Protect Essentials for Server
+152,Protect,SKNP-NP7XS-STD1-ISUB,VMware vCenter Protect Essentials for Server: Term License + Basic Support/Subscription for 1 year
+1,Protect,SKNP-NP7XS-STD1-RSUB,"DO NOT SELL Protect 7.X Server Subscription, with Standard Support Services, 1 Year Renewal"
+4,Protect,SKNP-NP7XS-STD2-ISUB,VMware vCenter Protect Essentials for Server: Term License + Basic Support/Subscription for 2 years
+14,Protect,SKNP-NP7XS-STD3-ISUB,VMware vCenter Protect Essentials for Server: Term License + Basic Support/Subscription for 3 years
+8,Protect,SKNP-NP7XS-TRANS,Protect 7.0 (Server Edition) License Transfer Fee
+1,Protect,SKNP-NP7XS-XSP,Shavlik Legacy - Protect 7.0 XSP Monthly Subscription for Servers (Add On Seats)
+689,Protect,SKNP-NP7XW-ADD,Protect 7.X for Workstations (Add On)
+11,Protect,SKNP-NP7XWAV-ADD,Protect 7.X + AV for Workstations (Add On)
+1,Protect,SKNP-NP7XWAVPM-ADD,Protect 7.X + AV + PM for Workstations (Add On)
+3,Protect,SKNP-NP7XWAVPM-PPL,Protect 7.X + AV + PM for Workstations
+4,Protect,SKNP-NP7XWAVPM-UPG,Upgrade Protect to Protect 7.X +  AV + PM (Workstations)
+11,Protect,SKNP-NP7XWAV-PPL,Protect 7.X + AV for Workstations
+1,Protect,SKNP-NP7XWAV-UPG,Upgrade Protect to Protect 7.X +  AV (Workstations)
+4,Protect,SKNP-NP7XW-CER1-ISUB,"DO NOT SELL Protect 7.X Workstation Subscription, with Certified Ptr Support Services, 1 Year Initial"
+51,Protect,SKNP-NP7XW-ENH1-ISUB,VMware vCenter Protect Essentials for Workstation: Term License + Production Support/Subscription for 1 year
+5,Protect,SKNP-NP7XW-ENH2-ISUB,VMware vCenter Protect Essentials for Workstation: Term License + Production Support/Subscription for 2 years
+12,Protect,SKNP-NP7XW-ENH3-ISUB,VMware vCenter Protect Essentials for Workstation: Term License + Production Support/Subscription for 3 years
+49,Protect,SKNP-NP7XWG-ADD,Protect 7.X Gov't Edition for Workstations (Add On)
+1,Protect,SKNP-NP7XWGAVPM-PPL,Protect 7.X + AV + PM Gov't Edition for Workstations
+3,Protect,SKNP-NP7XWGAV-PPL,Protect 7.X + AV Gov't Edition for Workstations
+1,Protect,SKNP-NP7XWG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Essentials for Workstation: Term License + Production Support/Subscription for 1 year
+2,Protect,SKNP-NP7XWGPM-PPL,Protect 7.X + PM Gov't Edition for Workstations
+4,Protect,SKNP-NP7XWGPM-UPG,Upgrade Protect to Protect 7.X + PM Gov't Edition (Workstations)
+121,Protect,SKNP-NP7XWG-PPL,U.S. Federal VMware vCenter Protect Essentials for Workstation
+1,Protect,SKNP-NP7XWG-STD1-ISUB,U.S. Federal VMware vCenter Protect Essentials for Workstation: Term License + Basic Support/Subscription for 1 year
+1,Protect,SKNP-NP7XWG-STD3-ISUB,U.S. Federal VMware vCenter Protect Essentials for Workstation: Term License + Basic Support/Subscription for 3 years
+2,Protect,SKNP-NP7XWG-UPG,Upgrade Protect to Protect 7.X Govt. Edition (Workstations)
+10,Protect,SKNP-NP7XWPM-ADD,Protect 7.X + PM for Workstations (Add On)
+11,Protect,SKNP-NP7XWPM-PPL,Protect 7.X + PM for Workstations
+63,Protect,SKNP-NP7XWPM-UPG,Upgrade Protect to Protect 7.X +  PM (Workstations)
+715,Protect,SKNP-NP7XW-PPL,VMware vCenter Protect Essentials for Workstation
+126,Protect,SKNP-NP7XW-STD1-ISUB,VMware vCenter Protect Essentials for Workstation: Term License + Basic Support/Subscription for 1 year
+1,Protect,SKNP-NP7XW-STD1-RSUB,"DO NOT SELL Protect 7.X Workstation Subscription, with Standard Support Services, 1 Year Renewal"
+3,Protect,SKNP-NP7XW-STD2-ISUB,VMware vCenter Protect Essentials for Workstation: Term License + Basic Support/Subscription for 2 years
+9,Protect,SKNP-NP7XW-STD3-ISUB,VMware vCenter Protect Essentials for Workstation: Term License + Basic Support/Subscription for 3 years
+6,Protect,SKNP-NP7XW-TRANS,Protect 7.0 (Workstation Edition) License Transfer Fee
+2,Protect,SKNP-NP7XW-XSP,Shavlik Legacy - Protect 7.0 XSP Monthly Subscription for Workstations (Add On Seats)
+1,Protect,SKNP-NP7XW-XSP,Protect 7.0 XSP Mo. Subscription - Workstations (Ongoing)
+4,Protect,SKNP-NPAVW-PRM,Protect 7.1 (Workstation Ed) ? AV Promo
+1,Protect,SKNP-NPB7XSG-ENH1-ISUB,"Gov't Protect Bundle SVR Subscription: Configure, AV, PM, with Enh Support Svcs, 1 Yr Initial"
+1,Protect,SKNP-NPB7XSG-STD1-ISUB,"Gov't Protect Bundle SVR Subscription: Configure, AV, PM, with Std Support Svcs, 1 Yr Initial"
+1,Protect,SKNP-NPB7XWG-ENH1-ISUB,"Gov't Protect Bundle WS Subscription: Configure, AV, PM, with Enh Support Svcs, 1 Yr Initial"
+2,Protect,SKNP-NPB7XWG-STD1-ISUB,"Gov't Protect Bundle WS Subscription: Configure, AV, PM, with Std Support Svcs, 1 Yr Initial"
+2,Protect,SKNP-NPNCXS-ADD,Protect 7.0 & Configure 4.0 Bundle (Server Ed.) Add-On Seats
+4,Protect,SKNP-PANPS-UPG,Shavlik Legacy - Upgrade Audit to Protect 7.X (Servers)
+3,Protect,SKNP-PANPW-UPG,Shavlik Legacy - Upgrade Audit to Protect 7.X (Workstations)
+1,Protect,SKNP-PM7XS-CER1-ISUB,"DO NOT SELL Power Management 7.X Server Subscription, with Certified Ptr Technical Support Services, 1 Year Initial"
+1,Protect,SKNP-PM7XS-CER1-RSUB,"DO NOT SELL Power Management 7.X Server Subscription, with Certified Ptr Technical Support Services, 1 Year Renewal"
+4,Protect,SKNP-PM7XS-STD1-ISUB,"DO NOT SELL Power Management 7.X Server Subscription, with Standard Technical Support Services, 1 Year Initial"
+5,Protect,SKNP-PM7XW-CER1-ISUB,"DO NOT SELL Power Management 7.X Workstation Subscription, with Certified Ptr Tech. Support Services, 1 Year Initial"
+3,Protect,SKNP-PM7XW-ENH1-ISUB,"DO NOT SELL Power Management 7.X Workstation Subscription, with Enhanced Technical Support Services, 1 Year Initial"
+25,Protect,SKNP-PM7XW-STD1-ISUB,"DO NOT SELL Power Management 7.X Workstation Subscription, with Standard Technical Support Services, 1 Year Initial"
+1,Protect,SKNP-PM7XW-STD3-ISUB,"DO NOT SELL Power Management 7.X Workstation Subscription, with Standard Technical Support Services, 3 Year Initial"
+2,Protect,SKNP-VP7XU-CER1-ISUB,"DO NOT SELL vProtect 7.X Subscription for 3 CPUs, with Cert Ptr Support Svcs, 1 Yr Initial"
+1,Protect,SKNP-VP7XU-CER3-ISUB,"vProtect 7.X Subscription for 3 CPUs, with Cert Ptr Support Svcs, 3 Yr Initial"
+1,Protect,SKNP-VP7XU-ENH1-ISUB,"vProtect 7.X Subscription for 3 CPUs, with Enh Support Svcs, 1 Yr Initial"
+1,Protect,SKNP-VP7XU-STD1-ISUB,"DO NOT SELL vProtect 7.X Subscription for 3 CPUs, with Std Support Svcs, 1 Yr Initial"
+1,Protect,SKPA-NA6XC-SUB,Shavlik Legacy - Analyzer v6.x Subscription
+1,Protect,SKPD-CP10S-SUB,"Shavlik Legacy - Shavlik Custom Patch Data, Annual Subscription"
+6,Protect,SKPD-CP1PA-SUB,"Shavlik Legacy - Shavlik Custom Patch Data, Individual Patch"
+27,Protect,SKPR-NC4XS-PPL,Configure 4.X for Servers 2010 Promotion
+23,Protect,SKPR-NC4XW-PPL,Configure 4.X for Workstations 2010 Promotion
+14,Protect,SKPR-NP7XC-ENH1-ISUB,VMware vCenter Protect Essentials Console: Term License + Production Support/Subscription for 1 year
+2,Protect,SKPR-NP7XC-ENH2-ISUB,VMware vCenter Protect Essentials Console: Term License + Production Support/Subscription for 2 years
+4,Protect,SKPR-NP7XC-ENH3-ISUB,VMware vCenter Protect Essentials Console: Term License + Production Support/Subscription for 3 years
+1,Protect,SKPR-NP7XCG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Essentials Console: Term License + Production Support/Subscription for 1 year
+1,Protect,SKPR-NP7XCG-ENH3-ISUB,U.S. Federal VMware vCenter Protect Essentials Console: Term License + Production Support/Subscription for 3 years
+14,Protect,SKPR-NP7XC-STD1-ISUB,VMware vCenter Protect Essentials Console: Term License + Basic Support/Subscription for 1 year
+4,Protect,SKPR-NPB7XS-CER1-ISUB,"Protect Bundle SVR Subscription: Configure, AV, PM, with Cert Ptr Support Svcs, 1 Yr Initial, Promo"
+25,Protect,SKPR-NPB7XS-CER3-ISUB,"Protect Bundle SVR Subscription: Configure, AV, PM, with Cert Ptr Support Svcs, 3 Yr Initial, Promo"
+61,Protect,SKPR-NPB7XS-ENH1-ISUB,VMware vCenter Protect Essentials Plus for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,SKPR-NPB7XS-ENH2-ISUB,VMware vCenter Protect Essentials Plus for Server: Term License + Production Support/Subscription for 2 years
+20,Protect,SKPR-NPB7XS-ENH3-ISUB,VMware vCenter Protect Essentials Plus for Server: Term License + Production Support/Subscription for 3 years
+5,Protect,SKPR-NPB7XSG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,SKPR-NPB7XSG-ENH3-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Server: Term License + Production Support/Subscription for 3 years
+3,Protect,SKPR-NPB7XSG-STD1-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Server: Term License + Basic Support/Subscription for 1 year
+5,Protect,SKPR-NPB7XSG-STD3-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Server: Term License + Basic Support/Subscription for 3 years
+63,Protect,SKPR-NPB7XS-STD1-ISUB,VMware vCenter Protect Essentials Plus for Server: Term License + Basic Support/Subscription for 1 year
+81,Protect,SKPR-NPB7XS-STD3-ISUB,VMware vCenter Protect Essentials Plus for Server: Term License + Basic Support/Subscription for 3 years
+4,Protect,SKPR-NPB7XW-CER1-ISUB,"Protect Bundle WS Subscription: Configure, AV, PM, with Cert Ptr Support Svcs, 1 Yr Initial, Promo"
+19,Protect,SKPR-NPB7XW-CER3-ISUB,"Protect Bundle WS Subscription: Configure, AV, PM, with Cert Ptr Support Svcs, 3 Yr Initial, Promo"
+40,Protect,SKPR-NPB7XW-ENH1-ISUB,VMware vCenter Protect Essentials Plus for Workstation: Term License + Production Support/Subscription for 1 year
+14,Protect,SKPR-NPB7XW-ENH3-ISUB,VMware vCenter Protect Essentials Plus for Workstation: Term License + Production Support/Subscription for 3 years
+6,Protect,SKPR-NPB7XWG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Workstation: Term License + Production Support/Subscription for 1 year
+3,Protect,SKPR-NPB7XWG-STD1-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Workstation: Term License + Basic Support/Subscription for 1 year
+5,Protect,SKPR-NPB7XWG-STD3-ISUB,U.S. Federal VMware vCenter Protect Essentials Plus for Workstation: Term License + Basic Support/Subscription for 3 years
+47,Protect,SKPR-NPB7XW-STD1-ISUB,VMware vCenter Protect Essentials Plus for Workstation: Term License + Basic Support/Subscription for 1 year
+84,Protect,SKPR-NPB7XW-STD3-ISUB,VMware vCenter Protect Essentials Plus for Workstation: Term License + Basic Support/Subscription for 3 years
+45,Protect,SKPR-NPFB7XS-DEF1-ISUB,VMware vCenter Protect Feature Upgrade for Server: Term License + Basic Support/Subscription for 1 year
+8,Protect,SKPR-NPFB7XS-DEF3-ISUB,VMware vCenter Protect Feature Upgrade for Server: Term License + Basic Support/Subscription for 3 years
+26,Protect,SKPR-NPFB7XS-ENH1-ISUB,VMware vCenter Protect Feature Upgrade for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,SKPR-NPFB7XS-ENH2-ISUB,VMware vCenter Protect Feature Upgrade for Server: Term License + Production Support/Subscription for 2 years
+2,Protect,SKPR-NPFB7XSG-DEF1-ISUB,U.S. Federal VMware vCenter Protect Feature Upgrade for Server: Term License + Basic Support/Subscription for 1 year
+6,Protect,SKPR-NPFB7XSG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Feature Upgrade for Server: Term License + Production Support/Subscription for 1 year
+61,Protect,SKPR-NPFB7XW-DEF1-ISUB,VMware vCenter Protect Feature Upgrade for Workstation: Term License + Basic Support/Subscription for 1 year
+2,Protect,SKPR-NPFB7XW-DEF2-ISUB,VMware vCenter Protect Feature Upgrade for Workstation: Term License + Basic Support/Subscription for 2 years
+4,Protect,SKPR-NPFB7XW-DEF3-ISUB,VMware vCenter Protect Feature Upgrade for Workstation: Term License + Basic Support/Subscription for 3 years
+21,Protect,SKPR-NPFB7XW-ENH1-ISUB,VMware vCenter Protect Feature Upgrade for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,SKPR-NPFB7XW-ENH2-ISUB,VMware vCenter Protect Feature Upgrade for Workstation: Term License + Production Support/Subscription for 2 years
+2,Protect,SKPR-NPFB7XWG-DEF1-ISUB,U.S. Federal VMware vCenter Protect Feature Upgrade for Workstation: Term License + Basic Support/Subscription for 1 year
+6,Protect,SKPR-NPFB7XWG-ENH1-ISUB,U.S. Federal VMware vCenter Protect Feature Upgrade for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,SKSC-NC4XC-ADD,Shavlik Legacy - Configure 4.0 Console (Add On)
+58,Protect,SKSC-NC4XS-ADD,Configure 4.0 for Servers (Add On)
+2,Protect,SKSC-NC4XSG-ADD,Configure 4.0 Gov't Edition for Servers (Add On)
+9,Protect,SKSC-NC4XSG-PPL,Component Gov't Edition:  Configure 4.0 Gov't Edition for Servers
+44,Protect,SKSC-NC4XS-PPL,Shavlik Legacy - Configure 4.0 for Servers
+1,Protect,SKSC-NC4XS-XSP,Configure 4.0 XSP Mo. Subscription - Servers (Ongoing)
+1,Protect,SKSC-NC4XS-XSP,Shavlik Legacy - Configure 4.0 XSP Monthly Subscription for Servers
+112,Protect,SKSC-NC4XW-ADD,Configure 4.0 for Workstations (Add On)
+10,Protect,SKSC-NC4XWG-PPL,Component Gov't Edition:  Configure 4.0 Gov't Edition for Workstations
+23,Protect,SKSC-NC4XW-PPL,Shavlik Legacy - Configure 4.0 for Workstations
+1,Protect,SKSC-NC4XW-XSP,Shavlik Legacy - Configure 4.0 XSP Monthly Subscription for Workstations
+1,Protect,SKSC-NC4XW-XSP,Configure 4.0 XSP Mo. Subscription - Workstations (Ongoing)
+7,Protect,SKSS-SSFS-ADD,Security Suite for Servers (Add On)
+2,Protect,SKSS-SSFSG-ADD,Security Suite Gov't Edition for Servers (Add On)
+1,Protect,SKSS-SSFSGAV-PPL,Security Suite Gov't Edition + AV for Servers
+1,Protect,SKSS-SSFSGPM-PPL,Security Suite Gov't Edition + PM for Servers
+2,Protect,SKSS-SSFSGPM-UPG,Upgrade to Security Suite Gov't Edition + PM (Servers)
+37,Protect,SKSS-SSFSG-PPL,U.S. Federal Shavlik Protect Essentials Government Edition for Server + Configure
+4,Protect,SKSS-SSFSG-UPG,Upgrade to Security Suite Gov't Edition (Servers)
+7,Protect,SKSS-SSFS-PPL,Security Suite for Servers
+3,Protect,SKSS-SSFW-ADD,Security Suite for Workstations (Add On)
+3,Protect,SKSS-SSFWG-ADD,Security Suite Gov't Edition for Workstations (Add On)
+1,Protect,SKSS-SSFWGAV-PPL,Security Suite Gov't Edition + AV for Workstations
+1,Protect,SKSS-SSFWGPM-PPL,Security Suite Gov't Edition + PM for Workstations
+2,Protect,SKSS-SSFWGPM-UPG,Upgrade to Security Suite Gov't Edition + PM (Workstations)
+36,Protect,SKSS-SSFWG-PPL,U.S. Federal Shavlik Protect Essentials Government Edition for Workstation + Configure
+4,Protect,SKSS-SSFWG-UPG,Upgrade to Security Suite Gov't Edition (Workstations)
+4,Protect,SKSS-SSFW-PPL,Security Suite for Workstations
+1,Protect,SKTS-STD-LAT,Late Renewal Penalty
+17,Protect,S-PP-3P-TLSS-C,"Ivanti Protect Power Pack Add-On: Term License + Support/Subscription for 3 Years, powered by Shavlik"
+31,Protect,S-PP-P-TLSS-C,"Ivanti Protect Power Pack Add-On: Term License + Support/Subscription for 1 Year, powered by Shavlik"
+3,Protect,S-PP-P-TLSS-F,"U.S. Federal Ivanti Protect Power Pack Add-On: Term License + Support/Subscription for 1 Year, powered by Shavlik"
+2,Protect,S-PWS-CSL-L,"Ivanti Patch for Windows Console License, powered by Shavlik"
+6,Protect,S-PWS-PP-S,"Ivanti Patch for Windows Power Pack Add-On (fka Protect) Subscription, powered by Shavlik"
+1,Protect,S-PWS-PP-S3,"Ivanti Patch for Windows Power Pack Add-On (fka Protect): Subscription 3Y, powered by Shavlik"
+1,Protect,S-PWS-PP-S-F,"U.S. Federal Ivanti Patch for Windows Power Pack Add-On (fka Protect) Subscription, powered by Shavlik"
+200,Protect,S-PWS-SV-L,"Ivanti Patch for Windows for Server License, powered by Shavlik (fka Shavlik Protect)"
+3,Protect,S-PWS-SV-L-F,"U.S. Federal Ivanti Patch for Windows for Server License, powered by Shavlik (fka Shavlik Protect)"
+47,Protect,S-PWS-SV-S,"Ivanti Patch for Windows for Server (fka Protect) Subscription, powered by Shavlik"
+3,Protect,S-PWS-SV-S3,"Ivanti Patch for Windows for Server (fka Protect): Subscription 3Y, powered by Shavlik"
+1,Protect,S-PWS-SV-S-F,"U.S. Federal Ivanti Patch for Windows for Server (fka Protect) Subscription, powered by Shavlik"
+151,Protect,S-PWS-WS-L,"Ivanti Patch for Windows for Workstation License, powered by Shavlik (fka Shavlik Protect)"
+2,Protect,S-PWS-WS-L-F,"U.S. Federal Ivanti Patch for Windows for Workstations License, powered by Shavlik (fka Shavlik Protect)"
+41,Protect,S-PWS-WS-S,"Ivanti Patch for Windows for Workstations (fka Protect) Subscription, powered by Shavlik"
+7,Protect,S-PWS-WS-S3,"Ivanti Patch for Windows for Workstations (fka Protect): Subscription 3Y, powered by Shavlik"
+1,Protect,S-PWS-WS-S-F,"U.S. Federal Ivanti Patch for Windows for Workstations (fka Protect) Subscription, powered by Shavlik"
+13,PROTECT,S-SGE-SV-F,U.S. Federal Shavlik Protect Standard Government Edition for Server
+9,Protect,S-SGE-WS-F,U.S. Federal Shavlik Protect Standard Government Edition for Workstation
+4,Protect,S-STD-SV-2G-TLSS-C,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 2 years
+2,PROTECT,S-STD-SV-2P-TLSS-C,"Ivanti Protect Standard for Server: Term License + Support/Subscription for 2 years, powered by Shavlik"
+14,PROTECT,S-STD-SV-3G-TLSS-C,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 3 years
+23,PROTECT,S-STD-SV-3P-TLSS-C,"Ivanti Protect Standard for Server: Term License + Support/Subscription for 3 years, powered by Shavlik"
+1,Protect,S-STDSV3PTLSS-C-R,"Ivanti Protect Standard for Server: Term License + Support/Subscription for 3 years - Renewal, powered by Shavlik"
+1240,Protect,S-STD-SV-C,"Ivanti Protect Standard for Server, powered by Shavlik"
+3,Protect,S-STD-SV-C-PROMO,Shavlik Protect Standard for Server - Promotion - Existing LANDesk Customers Only
+117,Protect,S-STD-SV-F,"U.S. Federal Ivanti Protect Standard for Server, powered by Shavlik"
+286,PROTECT,S-STD-SV-G-TLSS-C,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 1 year
+1,Protect,S-STDSVGTLSS-C-R,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 1 year - Renewal
+1,Protect,S-STD-SV-G-TLSS-F,U.S. Federal Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 1 year
+141,Protect,S-STD-SV-P-TLSS-C,"Ivanti Protect Standard for Server: Term License + Support/Subscription for 1 year, powered by Shavlik"
+3,Protect,S-STD-SV-P-TLSS-F,"U.S. Federal Ivanti Protect Standard for Server: Term License + Support/Subscription for 1 year, powered by Shavlik"
+18,Protect,S-STDSV-TLSS-MSP,"Ivanti Protect Standard for Server: Term License + Support/Subscription for 1 Month - MSP, powered by Shavlik"
+1,Protect,S-STD-WS-2G-TLSS-C,Shavlik Protect/Empower Standard for Workstation: Term License + Basic Support/Subscription for 2 years
+3,PROTECT,S-STD-WS-2P-TLSS-C,"Ivanti Protect/Empower Standard for Workstation: Term License + Support/Subscription for 2 years, powered by Shavlik"
+1,Protect,S-STDWS2PTLSS-F-R,"U.S. Federal Ivanti Protect/Empower Stndrd for Workstation: Term Licnse+ Supp/Subscription for 2yr-Renewal, powered by Shavlik"
+22,Protect,S-STD-WS-3G-TLSS-C,Shavlik Protect/Empower Standard for Workstation: Term License + Basic Support/Subscription for 3 years
+24,PROTECT,S-STD-WS-3P-TLSS-C,"Ivanti Protect/Empower Standard for Workstation: Term License + Support/Subscription for 3 years, powered by Shavlik"
+1,Protect,S-STDWS3PTLSS-C-R,"Ivanti Protect/Empower Standard for Workstation:Term License+ Support/Subscription for 3 yrs-Renewal, powered by Shavlik"
+901,PROTECT,S-STD-WS-C,"Ivanti Protect Standard for Workstation, powered by Shavlik"
+84,PROTECT,S-STD-WS-F,"U.S. Federal Ivanti Protect Standard for Workstation, powered by Shavlik"
+266,Protect,S-STD-WS-G-TLSS-C,Shavlik Protect/Empower Standard for Workstation: Term License + Basic Support/Subscription for 1 year
+128,Protect,S-STD-WS-P-TLSS-C,"Ivanti Protect/Empower Standard for Workstation: Term License + Support/Subscription for 1 year, powered by Shavlik"
+1,Protect,S-STD-WS-P-TLSS-F,"U.S. Federal Ivanti Protect/Empower Stndrd for Workstation:Term License+ Supp/Subscription for 1yr, powered by Shavlik"
+7,Protect,S-STDWS-TLSS-MSP,"Ivanti Protect/Empower Standard for Workstation: Term License + Support/Subscription for 1 Month - MSP, powered by Shavlik"
+5,Protect,VP-ADV-SV-2G-TLSS-C,Shavlik Protect Advanced for Server: Term License + Basic Support/Subscription for 2 years
+2,Protect,VP-ADV-SV-2P-TLSS-C,Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 2 years
+5,Protect,VP-ADV-SV-3G-TLSS-C,Shavlik Protect Advanced for Server: Term License + Basic Support/Subscription for 3 years
+17,Protect,VP-ADV-SV-3P-TLSS-C,Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 3 years
+1,Protect,VP-ADV-SV-3P-TLSS-F,U.S. Federal Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 3 years
+31,Protect,VP-ADV-SV-G-TLSS-C,Shavlik Protect Advanced for Server: Term License + Basic Support/Subscription for 1 year
+37,Protect,VP-ADV-SV-P-TLSS-C,Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 1 year
+2,Protect,VP-ADV-SV-P-TLSS-F,U.S. Federal Shavlik Protect Advanced for Server: Term License + Production Support/Subscription for 1 year
+3,Protect,VP-ADV-WS-2G-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Basic Support/Subscription for 2 years
+4,Protect,VP-ADV-WS-3G-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Basic Support/Subscription for 3 years
+14,Protect,VP-ADV-WS-3P-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 3 years
+1,Protect,VP-ADV-WS-3P-TLSS-F,U.S. Federal Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 3 years
+17,Protect,VP-ADV-WS-G-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Basic Support/Subscription for 1 year
+21,Protect,VP-ADV-WS-P-TLSS-C,Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-ADV-WS-P-TLSS-F,U.S. Federal Shavlik Protect Advanced for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-CSL-2G-TLSS-C,Shavlik Protect Console: Term License + Basic Support/Subscription for 2 years
+1,Protect,VP-CSL-2P-TLSS-C,Shavlik Protect Console: Term License + Production Support/Subscription for 2 years
+2,Protect,VP-CSL-3P-TLSS-C,Shavlik Protect Console: Term License + Production Support/Subscription for 3 years
+35,Protect,VP-CSL-C,Shavlik Protect Console
+9,Protect,VP-CSL-F,U.S. Federal Shavlik Protect Console
+3,Protect,VP-CSL-G-TLSS-C,Shavlik Protect Console: Term License + Basic Support/Subscription for 1 year
+1,Protect,VP-CSL-G-TLSS-F,U.S. Federal Shavlik Protect Console: Term License + Basic Support/Subscription for 1 year
+11,Protect,VP-CSL-P-TLSS-C,Shavlik Protect Console: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-CSL-P-TLSS-F,U.S. Federal Shavlik Protect Console: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-FAO-SV-3P-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Production Support/Subscription for 3 years
+9,Protect,VP-FAO-SV-G-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Basic Support/Subscription for 1 year
+1,Protect,VP-FAO-SV-G-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Basic Support/Subscription for 1 year
+6,Protect,VP-FAO-SV-P-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Production Support/Subscription for 1 year
+2,Protect,VP-FAO-SV-P-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-FAO-WS-2G-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Basic Support/Subscription for 2 years
+1,Protect,VP-FAO-WS-3P-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Production Support/Subscription for 3 years
+7,Protect,VP-FAO-WS-G-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Basic Support/Subscription for 1 year
+1,Protect,VP-FAO-WS-G-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Basic Support/Subscription for 1 year
+7,Protect,VP-FAO-WS-P-TLSS-C,Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Production Support/Subscription for 1 year
+3,Protect,VP-FAO-WS-P-TLSS-F,U.S. Federal Shavlik Protect Standard to Advanced Feature Add-On for Workstation: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-SGE-SV-F,U.S. Federal Shavlik Protect Standard Government Edition for Server
+2,Protect,VP-SGE-WS-F,U.S. Federal Shavlik Protect Standard Government Edition for Workstation
+3,Protect,VP-STD-SV-2G-TLSS-C,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 2 years
+1,Protect,VP-STD-SV-2P-TLSS-C,Shavlik Protect Standard for Server: Term License + Production Support/Subscription for 2 years
+14,Protect,VP-STD-SV-3G-TLSS-C,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 3 years
+6,Protect,VP-STD-SV-3P-TLSS-C,Shavlik Protect Standard for Server: Term License + Production Support/Subscription for 3 years
+313,Protect,VP-STD-SV-C,Shavlik Protect Standard for Server
+22,Protect,VP-STD-SV-F,U.S. Federal Shavlik Protect Standard for Server
+84,Protect,VP-STD-SV-G-TLSS-C,Shavlik Protect Standard for Server: Term License + Basic Support/Subscription for 1 year
+71,Protect,VP-STD-SV-P-TLSS-C,Shavlik Protect Standard for Server: Term License + Production Support/Subscription for 1 year
+2,Protect,VP-STD-SV-P-TLSS-F,U.S. Federal Shavlik Protect Standard for Server: Term License + Production Support/Subscription for 1 year
+1,Protect,VP-STD-WS-2G-TLSS-C,Shavlik Protect Standard for Workstation: Term License + Basic Support/Subscription for 2 years
+1,Protect,VP-STD-WS-2P-TLSS-C,Shavlik Protect Standard for Workstation: Term License + Production Support/Subscription for 2 years
+9,Protect,VP-STD-WS-3G-TLSS-C,Shavlik Protect Standard for Workstation: Term License + Basic Support/Subscription for 3 years
+5,Protect,VP-STD-WS-3P-TLSS-C,Shavlik Protect Standard for Workstation: Term License + Production Support/Subscription for 3 years
+158,Protect,VP-STD-WS-C,Shavlik Protect Standard for Workstation
+16,Protect,VP-STD-WS-F,U.S. Federal Shavlik Protect Standard for Workstation
+67,Protect,VP-STD-WS-G-TLSS-C,Shavlik Protect Standard for Workstation: Term License + Basic Support/Subscription for 1 year
+1,Protect,VP-STD-WS-G-TLSS-F,U.S. Federal Shavlik Protect Standard for Workstation: Term License + Basic Support/Subscription for 1 year
+50,Protect,VP-STD-WS-P-TLSS-C,Shavlik Protect Standard for Workstation: Term License + Production Support/Subscription for 1 year
+5,RES ITSM,AUTO DSK MSP,Ivanti Automation for Desktop - MSP Usage Per Month for Desktop
+6,RES ITSM,AUTO SVR MSP,Ivanti Automation for Server - MSP Usage Per Month for Server
+8,RES ITSM,AUTO-D-P-L,"Ivanti Automation for Desktops License, Powered by RES"
+4,RES ITSM,AUTO-DS-P-L,"Ivanti Automation for Datacenter Server License, Powered by RES"
+1,RES ITSM,AUTO-SITE-CORP-P-L,"Automation Corporate Site License, Powered by RES"
+1,RES ITSM,AUTO-SITE-P-L,"Automation Company Size Site License, Powered by RES"
+1,RES ITSM,IDAM MSP,Ivanti Identity Director Access Module - MSP Usage Per Month
+1,RES ITSM,IDA-P-L,"Identity Director Access Perpetual per User License, Powered by RES"
+2,RES ITSM,IDIM MSP,Ivanti Identity Director Identity Module - MSP Usage Per Month
+1,RES ITSM,IDI-P-L,"Identity Director Identity Perpetual per User License, Powered by RES"
+6,RES ITSM,MIN MSP,Minimum order charge per month per MSP Reseller
+1,RES ITSM,RESACS10LIC,"RES ONE Automation for company size 5,001 - 10,000"
+7,RES ITSM,RESACS1LIC,"RES ONE Automation for company size 1 - 1,000"
+3,RES ITSM,RESACS5LIC,"RES ONE Automation for company size 2,501 - 5,000"
+1,RES ITSM,RESAMELIC,RES Automation Manager per license
+431,RES ITSM,RESAPLIC,RES ONE Automation for Desktop Pack (10)
+353,RES ITSM,RESASLIC,RES ONE Automation for Datacenter Server
+36,RES ITSM,RESMENTLIC,"Identity Director Access, Identity Director Identity, Automation Desktop License, Workspace Governance, Workspace Security, Workspac"
+28,RES ITSM,RESMIDALIC,RES ONE Identity Director Access Mod
+16,RES ITSM,RESMIDILIC,RES ONE Identity Director Identity Mod
+289,RES ITSM,RESMIDMLIC,"RES ONE Identity Acces, RES ONE Identity Identity, RES ONE Automation Desktop License"
+540,RES ITSM,RESMWADLIC,RES ONE Automation for Desktop (priced per desktop)
+1,RES ITSM,RESWBGUCLIC,RES Upg Bronze to Gold Conc LIC
+2,RES ITSM,WC MSP,Ivanti Workspace Control All Modules - MSP
+322,RES UEM,RESADRSP,RES ONE Automation RSP per mo Desktop
+6,RES UEM,RESAMEASP,RES Automation Manager RSP
+4,RES UEM,RESASPAF,Ivanti Renewal Administrative Fee
+1004,RES UEM,RESMENTLIC,"Identity Director Access, Identity Director Identity, Automation Desktop License, Workspace Governance, Workspace Security, Workspac"
+124,RES UEM,RESMWACNLIC,RES ONE Workspace All Modules Combined (3+1)
+72,RES UEM,RESMWCCLIC,RES ONE Workspace Composition Module
+181,RES UEM,RESMWCNLIC,RES ONE Workspace Composition Module
+26,RES UEM,RESMWGCLIC,RES ONE Workspace Governance Module
+49,RES UEM,RESMWGNLIC,RES ONE Workspace Governance Module
+47,RES UEM,RESMWSCLIC,RES ONE Workspace Security Module
+97,RES UEM,RESMWSNLIC,RES ONE Workspace Security Module
+1300,RES UEM,RESVDXLIC,RES Virtual Desktop Extender + 1st yr Premium 24/7 SA
+1300,RES UEM,RESVDXLIC,RES Virtual Desktop Extender
+1300,RES UEM,RESVDXLIC,RES Virtual Desktop Extender + 1st yr SA
+650,RES UEM,RESVDXLIC,RES Virtual Desktop Extender Premium
+282,RES UEM,RESWBCLIC,"Ivanti Workspace Control Bronze - Concurrent User, powered by RES"
+708,RES UEM,RESWBNLIC,"Ivanti Workspace Control Bronze - Named User, powered by RES"
+1356,RES UEM,RESWGCLIC,"Ivanti Workspace Control Gold - Concurrent User, powered by RES"
+942,RES UEM,RESWGNLIC,"Ivanti Workspace Control Gold - Named User, powered by RES"
+262,RES UEM,RESWSCLIC,"Ivanti Workspace Control Silver - Concurrent User, powered by RES"
+571,RES UEM,RESWSNLIC,"Ivanti Workspace Control Silver - Named User, powered by RES"
+3,RES UEM,VDX LIC,"Ivanti Virtual Desktop Extender, powered by RES"
+3,RES UEM,WC LIC 00 F,"Ivanti Workspace Control All Modules - Named User, powered by RES"
+21,RES UEM,WCC LIC 00 F,"Ivanti Workspace Control Composition Module - Named User, powered by RES"
+6,RES UEM,WCC LIC 00 T,"Ivanti Workspace Control Composition Module - Concurrent User, powered by RES"
+4,RES UEM,WCG LIC 00 F,"Ivanti Workspace Control Governance Module - Named User, powered by RES"
+2,RES UEM,WCG LIC 00 T,"Ivanti Workspace Control Governance Module - Concurrent User, powered by RES"
+11,RES UEM,WCS LIC 00 F,"Ivanti Workspace Control Security Module - Named User, powered by RES"
+3,RES UEM,WCS LIC 00 T,"Ivanti Workspace Control Security Module - Concurrent User, powered by RES"
+45,SCCM,HDTCL0001,"Ivanti PatchLink for MSSC Desktop Perpetual License - Powered by HEAT, Volume Only"
+23,SCCM,HDTSV0001,"Ivanti PatchLink for MSSC Desktop 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+10,SCCM,HDTSV0003,"Ivanti PatchLink for MSSC Desktop 3Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+9,SCCM,HMDCL0001,"Ivanti PatchLink for MSSC Datacenter Perpetual License - Powered by HEAT, Volume Only"
+1,SCCM,HMDSV0001,HEAT PatchLink for MSSC Datacenter Subscription
+14,SCCM,PDTSV0001,"Ivanti Patch Manager DeskTop 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+1,SCCM,PMDCL0001,"Ivanti Patch Manager DC for SCCM NonWin Perpetual License - Powered by HEAT, Volume Only"
+3,SCCM,PMDSL0001,Patch Manager DataCenter for SCCM Non-Win Platform
+4,SCCM,PMDSV0001,"Ivanti Patch Manager DC for SCCM NonWin 1Yr Subscription - Powered by HEAT, Volume/Renewal Only"
+2,SCUPDATES,S-SCUP-2G-TLSS-C,"Ivanti Patch for Microsoft System Center: Term License + Support for 2 year, powered by Shavlik"
+17,SCUPDATES,S-SCUP-3G-TLSS-C,"Ivanti Patch for Microsoft System Center: Term License + Support for 3 year, powered by Shavlik"
+1,SCUPDATES,S-SCUP-3G-TLSS-F,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 3 year, powered by Shavlik"
+30,SCUPDATES,S-SCUP-G-TLSS-C,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year, powered by Shavlik"
+3,SCUPDATES,S-SCUP-G-TLSS-F,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 1 year, powered by Shavlik"
+103,Security Suite,ENDSA-L,Medalsoft Endpoint Security Audit Lic
+13,Security Suite,LD-FDCC-S,"Ivanti FDCC Scanner and Content, powered by Landesk"
+16,Security Suite,LDMS-SS-ACA-I,Academic Alliance - School BuiIvantiing - Management Suite & Security Suite
+2,Security Suite,LDMS-SS-ACA-II,Academic Alliance - Other BuiIvantiing - Management Suite & Security Suite
+41,Security Suite,LDNAC-L,LANDESK NETWORK ACCESS CONTROL
+41,Security Suite,LDNAC-L,Network Access Control Add-on to IvantiSS
+1,Security Suite,LDPDCC-L,LANDESK PROTECT FOR DC CONSOLE LIC
+1,Security Suite,LDPDCS-L,LANDESK PROTECT FOR DC SERVER LIC
+89,Security Suite,LDSS-E,"Ivanti Security Suite FTE, powered by Landesk"
+1425,Security Suite,LDSS-L,"Ivanti Security Suite (Stand Alone Product), powered by Landesk"
+1030,Security Suite,LDSS-L-LDMS,"Endpoint Security (formerly Security Suite) add-on to Endpoint Manager, powered by Landesk (formerly Management Suite)"
+40,Security Suite,LDSS-L-LDPM,"Ivanti Security Suite - License Upgrade from Patch (Mid-term Only), powered by Landesk"
+69,Security Suite,LDSS-L-MSP,"Ivanti Security Suite MSP-Stand Alone, powered by Landesk"
+13,Security Suite,LDSS-L-PROMO,"Ivanti Security Suite License Promo, powered by Landesk"
+3503,Security Suite,LDSS-S,"Ivanti Security Suite - Subscription, powered by Landesk"
+5,Security Suite,LDSS-S-E,LD SECURITY SUITE FTE-SUB
+14,Security Suite,LDSS-S-LDPM,"Ivanti Security Suite - Subscription Upgrade from Patch (Mid-term Only), powered by Landesk"
+150,Security Suite,LDSS-S-MSP,"Ivanti Endpoint Security for Endpoint Manager Monthly MSP-Add On, powered by Landesk"
+6,Security Suite,LDUSBDC-L,Ivanti USB Device Control License
+1,Security Suite,LDUSBDC-M,Ivanti USB Device Control Maintenance
+8,Server Manager,LDSV-E,"Ivanti Server Manager FTE, powered by Landesk"
+986,Server Manager,LDSV-L,"Ivanti Server Manager, powered by Landesk"
+21,Service Desk,LDPCAC-L,Password Central Adv Connector
+93,Service Desk,LDPCB-L,Password Central Basic License
+24,Service Desk,LDPCB-M,PW Central Basic Mnt
+4,Service Desk,LDPCSMS-L,PW Central SMS Lic
+2,Service Desk,LDPS-L,LANDESK PASSWORD STATION LICENSE
+1,Service Desk,LDPS-M,LANDESK PASSWORD STATION MNT
+1,Service Desk,LDSD-AKA,ActiveKnowledge Analyst
+1,Service Desk,LDSD-AKA,LANDesk ActiveKnowledge Analyst
+3,Service Desk,LDSD-AKS,ActiveKnowledge Server
+3,Service Desk,LDSD-AKS,LANDesk ActiveKnowledge Server
+3,Service Desk,LDSD-AKU,Ivanti ActiveKnowledge User
+5,Service Desk,LDSD-CMA,"Ivanti ConfigurationManager Analyst, powered by Landesk"
+29,Service Desk,LDSDCONUSR-L,"Ivanti Service Desk Console User, powered by Landesk"
+6,Service Desk,LDSD-CTI,CTI Server
+4,Service Desk,LDSD-CTIA,CTI Analyst
+164,Service Desk,LDSDENDUSR-L,"Ivanti Service Desk End User, powered by Landesk"
+2,Service Desk,LDSDHDST-L,"Ivanti HelpDesk Analyst Seat, powered by Landesk"
+1,Service Desk,LDSD-MIA,"Ivanti Management Information Analyst, powered by Landesk"
+1,Service Desk,LDSD-MIS,"Ivanti Management Information Server, powered by Landesk"
+1,Service Desk,LDSD-NMMS,"Ivanti NetworkManager Multiple Site, powered by Landesk"
+1,Service Desk,LDSD-PA,"Ivanti Process Approver, powered by Landesk"
+3,Service Desk,LDSD-PPKS,"Ivanti ProcessPacks, powered by Landesk"
+2,Service Desk,LDSD-RMS,"Ivanti ResourceManager Server, powered by Landesk"
+26,Service Desk,LDSDSVCON-L,"Ivanti Service Desk Server Console, powered by Landesk"
+434,Service Desk,SDANCON-L,"Ivanti Service Desk Concurrent Analyst License, powered by Landesk"
+2,Service Desk,SDANCON-L-CZCH,"Ivanti Service Desk Con Analyst Lic - Czch Only, powered by Landesk"
+2,Service Desk,SDANCON-L-PROMO,"Ivanti Service Desk Concurrent Analyst Li Promo, powered by Landesk"
+1,Service Desk,SDANCON-MSP,"Ivanti Service Desk Stnd Concurrent Analyst MSP, powered by Landesk"
+4,Service Desk,SDANCON-S,"Ivanti Service Desk Con Analyst Sub, powered by Landesk"
+2,Service Desk,SDANCONUPG-L,"Ivanti Service Desk Concurrent Analyst Upgrade License (from a previous version), powered by Landesk"
+3,Service Desk,SDANENTCON-MSP,"Ivanti Service Desk Ent Concurrent Analyst MSP, powered by Landesk"
+3,Service Desk,SDANENTFXD-MSP,"Ivanti Service Desk Enterprise Fixd Analyst MSP, powered by Landesk"
+684,Service Desk,SDANFXD-L,"Ivanti Service Desk Fixed Analyst License, powered by Landesk"
+4,Service Desk,SDANFXD-L-CZCH,"Ivanti Service Desk Fxd Analyst Lic - Czch Only, powered by Landesk"
+7,Service Desk,SDANFXD-L-PROMO,"Ivanti Service Desk Fixed Analyst Lic Promo, powered by Landesk"
+2,Service Desk,SDANFXD-MSP,"Ivanti Service Desk Standard Fixed Analyst MSP, powered by Landesk"
+7,Service Desk,SDANFXD-S,"Ivanti Service Desk Fixed Analyst Subscription, powered by Landesk"
+17,Service Desk,SDANFXTOCON-L,"Ivanti Service Desk Fixed to Concurrent Analyst Conversion (3:1), powered by Landesk"
+4,Service Desk,SDANFXUPG-L,"Ivanti Service Desk Fixed Analyst Upgrade License (from a previous version), powered by Landesk"
+10,Service Desk,SDCM-L,"Ivanti Service Desk Configuration Manager License, powered by Landesk"
+21,Service Desk,SDCTI-L,ServiceDesk Computer Telephony Integration (CTI) License
+20,Service Desk,SDCTILT-L,SD CTI Qgate Client Licenses (30 Pack)
+2,Service Desk,SD-DEVINSTANCE-S,SD SaaS Dev Instance Sub
+9,Service Desk,SDDTMI-L,"Ivanti Service Desk Desktop Manager Integrator License, powered by Landesk"
+238,Service Desk,SDENTSERVER-L,"Ivanti Service Desk Enterprise Server License, powered by Landesk"
+3,Service Desk,SDENTSERVER-S,"Ivanti Service Desk ENT Server Sup, powered by Landesk"
+2,Service Desk,SDENTSERVERUPG-L,"Ivanti Service Desk Enterprise Server Upgrade License (from a previous version), powered by Landesk"
+19,Service Desk,SDENTUPGD-L,"Ivanti Service Desk Enterprise Server Upgrade License ( from standard to enterprise), powered by Landesk"
+3,Service Desk,SDHOSTAC-S,SD Host Admin Console
+6,Service Desk,SDHOSTFXAN-S,SD Host Fixed End User
+3,Service Desk,SDMIA-L,"Ivanti Service Desk Management Information Analytics License, powered by Landesk"
+43,Service Desk,SDNISWO-L,"Ivanti Service Desk Network Integration- Event Manager License, powered by Landesk"
+11,Service Desk,SDOT-L,"Ivanti Service Desk Open Touch License, powered by Landesk"
+2,Service Desk,SDRM-L,"Ivanti Service Desk Resource Manager License, powered by Landesk"
+2,Service Desk,SDSAASAC-S,"Ivanti Service Desk Saas Admin Console, powered by Landesk"
+65,Service Desk,SDSAASCONAN-S,"Ivanti Service Desk SaaS Concurrent Analyst, powered by Landesk"
+6,Service Desk,SDSAASEM,"Ivanti Service Desk SaaS Event Manager, powered by Landesk"
+44,Service Desk,SDSAASENT-S,"Ivanti Service Desk SaaS Enterprise Server, powered by Landesk"
+81,Service Desk,SDSAASFXAN-S,"Ivanti Service Desk SaaS Fixed Analyst, powered by Landesk"
+15,Service Desk,SDSAASFXCON-S,"Ivanti Service Desk SaaS Fixed Console, powered by Landesk"
+52,Service Desk,SDSAASVPN-S,"Ivanti Service Desk SaaS VPN, powered by Landesk"
+346,Service Desk,SDSERVER-L,"Ivanti Service Desk Standard Server License, powered by Landesk"
+3,Service Desk,SDSERVER-L-CZCH,"Ivanti Service Desk Server Lic  - Czch Only, powered by Landesk"
+4,Service Desk,SDSERVER-S,"Ivanti Service Desk Strd Server Sub, powered by Landesk"
+4,Service Desk,SDSERVERUPG-L,"Ivanti Service Desk Standard Server Upgrade License (from a previous version), powered by Landesk"
+12,Service Desk,SDSTISVR-L,SD Comp Telephony Intg (CTI) Svr Lic
+2,Service Desk,SMAKE,"Ivanti Active Knowledge Server -Enterprise, powered by Landesk"
+10,Service Desk,SMAKL,LD Active Knowledge Server -Large
+11,Service Desk,SMAKM,LD Active Knowledge Server -Medium
+4,Service Desk,SMAKS,LD Active Knowledge Server -Small
+2,Service Desk,SMCME,"Ivanti Configuration Manager Server-Enterprise, powered by Landesk"
+11,Service Desk,SMCML,LD Configuration Manager Server-Large
+17,Service Desk,SMCMM,LD Configuration Manager Server-Medium
+4,Service Desk,SMCMS,LD Configuration Manager Server-Small
+3,Service Desk,SMCSDE,"Ivanti Customer  Service Desk Server-Enterprise, powered by Landesk"
+1,Service Desk,SMCSDL,LD Customer Service Desk Server-Large
+4,Service Desk,SMCSDM,LD Customer Service Desk Server-Medium
+2,Service Desk,SMCSDS,LD Customer Service Desk Server-Small
+3,Service Desk,SMCTIS-L,LANDesk® Computer Telephony Integration (QGate CTI)-Small
+2,Service Desk,SMDIGENE,Ivanti DTM Integ - Generic Connector -Enterprise
+8,Service Desk,SMDIGENL,LD DTM Integ - Generic Connector -Large
+10,Service Desk,SMDIGENM,LD DTM Integ - Generic Connector -Medium
+3,Service Desk,SMDIGENS,LD DTM Integ - Generic Connector -Small
+1,Service Desk,SMDIMSSMSE,Ivanti DTM Integ - MS SMS/SCCM-Enterprise
+2,Service Desk,SMDIMSSMSL,LD DTM Integ - MS SMS/SCCM-Large
+4,Service Desk,SMDIMSSMSM,LD DTM Integ - MS SMS/SCCM-Medium
+1,Service Desk,SMDIMSSMSS,LD DTM Integ - MS SMS/SCCM-Small
+3,Service Desk,SMMIL,LD MI Analytics Server -Large
+3,Service Desk,SMMIM,LD MI Analytics Server -Medium
+2,Service Desk,SMNISOL-L,LANDesk® Network Integration- Solarwinds Orion (Large)
+1,Service Desk,SMNISOS-L,LANDesk® Network Integration- Solarwinds Orion (Small)
+25,Service Desk,SMPMBP,LD Pass Me Base Package
+25,Service Desk,SMPMBP,Pass Me Base Package
+4,Service Desk,SMPPAM,"Ivanti Process Pack Asset Management, powered by Landesk"
+1,Service Desk,SMPPE,"Ivanti Process Pack Licence-Enterprise, powered by Landesk"
+5,Service Desk,SMPPHR,"Ivanti Process Pack Human Resources, powered by Landesk"
+9,Service Desk,SMPPL,LD Process Pack Licence-Large
+12,Service Desk,SMPPM,LD Process Pack Licence-Medium
+1,Service Desk,SMPPRM,"Ivanti Process Pack Release Management, powered by Landesk"
+4,Service Desk,SMPPS,LD Process Pack Licence-Small
+7,Service Desk,SMRML,LD Resource Manager Server -Large
+7,Service Desk,SMRMM,LD Resource Manager Server -Medium
+2,Service Desk,SMRMS,LD Resource Manager Server -Small
+5,Service Desk,SMSDE,LD Service Desk Server-Enterprise
+19,Service Desk,SMSDL,LD Service Desk Server-Large
+43,Service Desk,SMSDM,LD Service Desk Server-Medium
+4,Service Desk,SMSDPSANE,"Ivanti Ivanti Service Desk Per Seat Analyst-Enterprise, powered by Landesk"
+4,Service Desk,SMSDPSANE,S-E-LD Service Desk Per Seat Analyst
+31,Service Desk,SMSDPSANL,LD Service Desk Per Seat Analyst-Large
+31,Service Desk,SMSDPSANL,S-L-LD Service Desk Per Seat Analyst
+70,Service Desk,SMSDPSANM,LD Service Desk Per Seat Analyst-Medium
+70,Service Desk,SMSDPSANM,S-M-LD Service Desk Per Seat Analyst
+73,Service Desk,SMSDPSANS,LD Service Desk Per Seat Analyst-Small
+73,Service Desk,SMSDPSANS,S-S-LD Service Desk Per Seat Analyst
+47,Service Desk,SMSDS,LD Service Desk Server-Small
+3,Service Desk,SMSSSPE,"Ivanti Self Service (SP) Server -Enterprise, powered by Landesk"
+14,Service Desk,SMSSSPL,LD Self Service (SP) Server -Large
+41,Service Desk,SMSSSPM,LD Self Service (SP) Server -Medium
+28,Service Desk,SMSSSPS,LD Self Service (SP) Server -Small
+2,Service Desk,SMUPMISOLE,LANDesk® Network Integration- Solarwinds Orion (Upgrade - Large to Enterprise)
+2,Service Desk,SMUPMISOLE,S-E-LD Network Integ - Solarwinds Orion (CB)
+2,Service Desk,SMUPWDLE,LANDesk® Web Desk Server (Upgrade - Large to Enterprise)
+2,Service Desk,SMUPWDLE,S-E-LD Web Desk Server (CB)
+1,Service Desk,SMUPWDML,LANDesk® Web Desk Server (Upgrade - Medium to Large)
+1,Service Desk,SMUPWDML,S-L-LD Web Desk Server (CB)
+2,Service Desk,SMUPWDSM,LANDesk® Web Desk Server (Upgrade - Small to Medium)
+2,Service Desk,SMUPWDSM,S-M-LD Web Desk Server (CB)
+2,Service Desk,SMWASPM,"Ivanti Web Analyst (SP) Server, powered by Landesk"
+2,Service Desk,SMWASPM,LD Web Analyst (SP) Server -Medium
+3,Service Desk,SMWASPS,"Ivanti Web Analyst (SP) Server, powered by Landesk"
+3,Service Desk,SMWASPS,LD Web Analyst (SP) Server -Small
+2,Service Desk,SMWDE-L,"Ivanti Web Desk (Enterprise), powered by Landesk"
+13,Service Desk,SMWDL-L,LANDesk® Web Desk (Large)
+22,Service Desk,SMWDM-L,LANDesk® Web Desk (Medium)
+20,Service Desk,SMWDS-L,LANDesk® Web Desk (Small)
+2,Service Management,ALBCL0001,"Ivanti Livetime Base Perpetual License - Powered by HEAT, Volume Only"
+1,Service Management,ALBSV0001,"Ivanti LiveTime Base Cloud SaaS - Powered by HEAT, Volume/Renewal Only, Renewal Only"
+1,Service Management,ALCCL0001,"Ivanti Livetime Change Management Perpetual License - Powered by HEAT, Volume Only"
+2,Service Management,ALICL0001,"Ivanti Livetime Incident Management Perpetual License - Powered by HEAT, Volume Only"
+1,Service Management,ALPCL0001,"Ivanti Livetime Problem Management Perpetual License - Powered by HEAT, Volume Only"
+2,Service Management,ALRCL0001,"Ivanti Livetime Request Management Perpetual License - Powered by HEAT, Volume Only"
+6,Service Management,ASECL0001,"Ivanti LiveTime Standard Edition Perpetual License - Powered by HEAT, Volume Only"
+3,Service Management,ASHCL0001,"Ivanti LiveTime Helpdesk Edition Perpetual License - Powered by HEAT, Volume Only"
+1,Service Management,ASPCL0001,"Ivanti LiveTime Premium Edition Perpetual License - Powered by HEAT, Volume Only"
+1,Service Management,ASPSV0001,"Ivanti LiveTime Premium Edition Cloud SaaS - Powered by HEAT, Volume/Renewal Only"
+4,Service Management,HTMCF0005,"Ivanti Service Desk Concurrent MSP Subscription, Powered by HEAT"
+3,Service Management,HTMCF0006,"Ivanti Service Desk Named MSP Subscription, Powered by HEAT"
+2,Shavlik MI for SCCM,S-MIMSS-C,Shavlik Management Intelligence for Microsoft System Center
+27,Shavlik OEM Royalties,ROY-SH-PT-TLSS-C,VMware vCenter Protect OEM Royalty - Term License
+11,Shavlik OEM Royalties,ROY-VP-PT-TLSS-C,Shavlik Protect OEM Royalty - Term License
+1,Shavlik OEM Royalties,SKBD-CONTRACT-FEE-OEM,Contract Signing Fee
+18,Shavlik OEM Royalties,SKBD-LICENSE-OEM,VMware vCenter Protect OEM Royalty - License
+2,Shavlik OEM Royalties,SKBD-NREDEV-XXX-OEM,"Shavlik NRE, Developer Fees"
+10,Shavlik OEM Royalties,SKBD-PASMT-SDK-OEM,Patch Assessment SDK License Royalties
+62,Shavlik OEM Royalties,SKBD-SDKLIC-RYLTY-OEM,OEM Partner Royalties (SDK License)
+5,Shavlik OEM Royalties,SKBD-SNS-OEM,VMware vCenter Protect OEM Royalty - SnS
+6,Shavlik OEM Royalties,SKBD-SUPPORT-FEE-OEM,BD Partner Support Fee
+54,Shavlik OEM Royalties,S-ROY-PT-C,"Ivanti Protect OEM Royalty - Perpetual License, powered by Shavlik"
+4,Shavlik OEM Royalties,S-ROY-PT-PRE-C,Ivanti OEM Prepaid Royalties
+77,Shavlik OEM Royalties,S-ROY-PT-SSS-C,"Ivanti Protect OEM Royalty - SnS, powered by Shavlik"
+126,Shavlik OEM Royalties,S-ROY-PT-TLSS-C,"Ivanti Protect OEM Royalty - Term License, powered by Shavlik"
+5,Shavlik Patch,SKPD-SCUPG-SUB1,U.S. Federal VMware vCenter Protect Update Catalog: Term License + Basic Support for 1 year
+7,Shavlik Patch,SKPD-SCUPG-SUB3,U.S. Federal VMware vCenter Protect Update Catalog: Term License + Basic Support for 3 years
+213,Shavlik Patch,SKPD-SCUP-SUB1,VMware vCenter Protect Update Catalog: Term License + Basic Support for 1 year
+8,Shavlik Patch,SKPD-SCUP-SUB2,VMware vCenter Protect Update Catalog: Term License + Basic Support for 2 years
+131,Shavlik Patch,SKPD-SCUP-SUB3,VMware vCenter Protect Update Catalog: Term License + Basic Support for 3 years
+73,Shavlik Patch,S-PSCCM-L,"Ivanti Patch for Microsoft System Center License, powered by Shavlik"
+1,Shavlik Patch,S-PSCCM-L-F,"U.S. Federal Ivanti Patch for Microsoft System Center License, powered by Shavlik"
+21,Shavlik Patch,S-PSCCM-S,"Ivanti Patch for Microsoft System Center: Subscription, powered by Shavlik"
+8,Shavlik Patch,S-PSCCM-S-01,"Ivanti Patch for Microsoft System Center: Subscription 1Y 100-2499 Nodes, powered by Shavlik"
+1,Shavlik Patch,S-PSCCM-S-02,"Ivanti Patch for Microsoft System Center: Subscription 1Y 2500-4999 Nodes, powered by Shavlik"
+7,Shavlik Patch,S-PSCCM-S-03,"Ivanti Patch for Microsoft System Center: Subscription 1Y 5000-9999 Nodes, powered by Shavlik"
+8,Shavlik Patch,S-PSCCM-S-04,"Ivanti Patch for Microsoft System Center: Subscription 1Y 10,000+ Nodes, powered by Shavlik"
+1,Shavlik Patch,S-PSCCM-S-F,"U.S. Federal Ivanti Patch for Microsoft System Center: Subscription, powered by Shavlik"
+10,Shavlik Patch,S-SCUP-2G-TLSS-C,"Ivanti Patch for Microsoft System Center: Term License + Support for 2 year, powered by Shavlik"
+1,Shavlik Patch,S-SCUP-2G-TLSS-F,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 2 year, powered by Shavlik"
+258,Shavlik Patch,S-SCUP-3G-TLSS-C,"Ivanti Patch for Microsoft System Center: Term License + Support for 3 year, powered by Shavlik"
+6,Shavlik Patch,S-SCUP3GTLSS-C-R,"Ivanti Patch for Microsoft System Center: Term License + Support for 3 years - Renewal, powered by Shavlik"
+6,Shavlik Patch,S-SCUP-3G-TLSS-F,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 3 year, powered by Shavlik"
+165,Shavlik Patch,S-SCUP-G-TLSS-C,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year, powered by Shavlik"
+2,Shavlik Patch,S-SCUPGTLSS-C-R,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year - Renewal, powered by Shavlik"
+10,Shavlik Patch,S-SCUP-G-TLSS-F,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 1 year, powered by Shavlik"
+6,Shavlik Patch,S-SCUP-S,"Ivanti Patch for SCCM 2007 SCUP Edition: Subscription 1Y, powered by Shavlik, Volume/Renewal Only"
+12,Shavlik Patch,S-SCUP-S3,"Ivanti Patch for Microsoft System Center: Subscription 3Y, powered by Shavlik"
+188,Shavlik Patch,S-SPMSSC-G-TLSS-C1,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 100-2499 Nodes, powered by Shavlik"
+4,Shavlik Patch,S-SPMSSCGTLSS-C1-R,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 100-2499 Nodes - Renewal, powered by Shavlik"
+54,Shavlik Patch,S-SPMSSC-G-TLSS-C2,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 2500-4999 Nodes, powered by Shavlik"
+50,Shavlik Patch,S-SPMSSC-G-TLSS-C3,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 5000-9999 Nodes, powered by Shavlik"
+1,Shavlik Patch,S-SPMSSCGTLSS-C3-R,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 5000-9999 Nodes - Renewal, powered by Shavlik"
+37,Shavlik Patch,S-SPMSSC-G-TLSS-C4,"Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 10,000+ Nodes, powered by Shavlik"
+6,Shavlik Patch,S-SPMSSC-G-TLSS-F1,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 100-2499 Nodes, powered by Shavlik"
+1,Shavlik Patch,S-SPMSSC-G-TLSS-F2,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 2500-4999 Nodes, powered by Shavlik"
+1,Shavlik Patch,S-SPMSSC-G-TLSS-F3,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 1 yr 5000-9999 Modes, powered by Shavlik"
+5,Shavlik Patch,S-SPMSSC-G-TLSS-F4,"U.S. Federal Ivanti Patch for Microsoft System Center: Term License + Support for 1 year 10,000+ Nodes, powered by Shavlik"
+153,Shavlik Patch,S-SPMSSC-L,"Ivanti Patch for Microsoft System Center - License, powered by Shavlik"
+2,Shavlik Patch,S-SPMSSC-L-F,"U.S. Federal Ivanti Patch for Microsoft System Center - License, powered by Shavlik"
+2,Shavlik Patch,VP-PUC-2G-TLSS-C,Shavlik Patch for Microsoft System Center: Term License + Basic Support for 2 year
+50,Shavlik Patch,VP-PUC-3G-TLSS-C,Shavlik Patch for Microsoft System Center: Term License + Basic Support for 3 year
+1,Shavlik Patch,VP-PUC-3G-TLSS-F,U.S. Federal Shavlik Patch for Microsoft System Center: Term License + Basic Support for 3 year
+98,Shavlik Patch,VP-PUC-G-TLSS-C,Shavlik Patch for Microsoft System Center: Term License + Basic Support for 1 year
+1,Shavlik Patch,VP-PUC-G-TLSS-F,U.S. Federal Shavlik Patch for Microsoft System Center: Term License + Basic Support for 1 year
+8,Skype Adapter,LDSKYPEADPTR-L,Ivanti Skype Adapter License
+340,System Manager,LDSY-L,"Ivanti System Manager, powered by Landesk"
+1,TP Classic,SMCLSWSCCTI,S-TP Support Center - CTI
+1,TP Classic,SMCLSWSCCTI,TP SUPPORT CENTER - CTI
+8,UEM Other,CLMCL0002,Frontrange License Manager License
+3,UEM Other,CLMCL0003,"Ivanti License Manager Perpetual License - Powered by HEAT, Volume Only"
+29,UEM Other,HLMCL0001,"Ivanti HEAT License Manager Perpetual License - Powered by HEAT, Volume Only"
+6,UEM Other,HLMCL0002,"Ivanti License Manager Migration License - Powered by HEAT, Volume Only"
+40,UEM Other,HLMSV0001,"Ivanti LM Product Catalog Subscription - Powered by HEAT, Volume/Renewal Only"
+15,UEM Other,HTPCL0009,"Ivanti MDM Perpetual License - Powered by HEAT, Renewal Only"
+2,UEM Other,HTPCL0010,TouchDown
+8,UEM Other,HTPSV0001,"Ivanti MDM Subscription - Powered by HEAT, Renewal Only"
+18,User Management,HE-SUM-E,"Ivanti Secure User Management FTE HE, powered by Landesk"
+107,User Management,LDSUM15-L,"Ivanti SUM 2015 Bundle Lic, powered by Landesk"
+14,User Management,LDSUM15-L-UPG,"Ivanti SUM 2015 Bundle Upgrade Lic, powered by Landesk"
+110,User Management,LDSUM-L,"Secure User Management Bundle Lic (Usr), powered by Landesk"
+68,User Management,LDSUM-L-UPG,"Secure User Mgmt Bundle Lic UPG Ivanti MS Usr, powered by Landesk"
+165,User Management,LDTUM15-L,"Ivanti TUM 2015 Bundle Lic, powered by Landesk"
+47,User Management,LDTUM15-L-UPG,"Ivanti TUM 2015 Bundle Upgrade Lic, powered by Landesk"
+138,User Management,LDTUM-L,"Total User Management Bundle Lic (USR), powered by Landesk"
+74,User Management,LDTUM-L-UPG,"Total User Mgmt Bundle Lic UPG Ivanti Ms USR, powered by Landesk"
+3,User Management,LDTUM-L-UPG-SUM,UPGRADE FROM SUMS TO TUM LICENSE
+10,User Management,SUM-E,"Ivanti Secure User Management Suite FTE, powered by Landesk"
+31,WINMAGIC,WMSDFDE-L,WinMagic FDE Lic
+1,Xtraction,SNCONN-S,ServiceNow Connector for LDMS Subscription
+2,Xtraction,S-XTRENSVRUPG-L-03,Xtraction Enterprise Server Upgrade License - From Standard Edition 2500+ Employees
+2,Xtraction,S-XTRENTSVR-L-01,Ivanti Xtraction Enterprise Server SH License 1-499 Employees
+1,Xtraction,S-XTRENTSVR-L-02,Ivanti Xtraction Enterprise Server SH License 500-2499 Employees
+2,Xtraction,S-XTRENTSVR-L-03,Ivanti Xtraction Enterprise Server SH License 2500+ Employees
+2,Xtraction,S-XTRPRB-L-01,Xtraction Protect Reporting Bundle License 1-499 Employees
+2,Xtraction,S-XTRPRB-S1-01,Xtraction Protect Reporting Bundle Subscription 1-499 Employees 1 Yr
+1,Xtraction,S-XTRPRB-S1-02,Xtraction Protect Reporting Bundle Subscription 500-2499 Employees 1 Yr
+1,Xtraction,WL-XTRANALYST-L,Ivanti Xtraction Analyst - WL -Lic
+1,Xtraction,WL-XTRCWL-L,Ivanti Xtraction Connector - WL Aval - Lic
+1,Xtraction,WL-XTRRPTSVR-L,Wavelink Xtraction Reporting Server Bundle License
+100,Xtraction,XTRANALYST-L,Ivanti Xtraction Analyst Lic
+1,Xtraction,XTRANALYST-L-01,Ivanti Xtraction Analyst License 1-499 Employees
+2,Xtraction,XTRANALYST-L-03,Ivanti Xtraction Analyst License 2500+ Employees
+6,Xtraction,XTRANALYST-S,Ivanti Xtraction Analyst Sub
+4,Xtraction,XTRCAVAYA-L,Ivanti Xtraction Connector - Avaya CMS Lic
+1,Xtraction,XTRCAVAYA-S,Ivanti Xtraction Connector - Avaya CMS Sub
+1,Xtraction,XTRCBMCCIM-L,Ivanti Xtraction Connector - BMC Controlm Lic
+2,Xtraction,XTRCBMCFP-L,Ivanti Xtraction Connector - BMC Footprints Lic
+9,Xtraction,XTRCBMCREM-L,Ivanti Xtraction Connector - BMC Remedy Lic
+2,Xtraction,XTRCBMCREM-S,Ivanti Xtraction Connector - BMC Remedy Sub
+1,Xtraction,XTRCCANIMSD-L,Ivanti Xtraction Connector- CA NIMSOFT Ivanti Service Desk Lic
+1,Xtraction,XTRCCASAM-L,Ivanti Xtraction Connector - CA SAM Lic
+1,Xtraction,XTRCCASC-L,Ivanti Xtraction Connector - CA Service Catalog Lic
+3,Xtraction,XTRCCASDM-L,Ivanti Xtraction Connector - CA SDM/CMDB Lic
+1,Xtraction,XTRCCASPEC-L,Ivanti Xtraction Connector - CA Spectrum Lic
+3,Xtraction,XTRCCHER-L,Ivanti Xtraction Connector- Cherwell Service Mgmt Lic
+4,Xtraction,XTRCCUCCX-L,Ivanti Xtraction Connector - Cisco UCCX Lic
+3,Xtraction,XTRCCUST-L,Ivanti Xtraction Customer Connector Lic
+1,Xtraction,XTRCFLEXNET-L,Ivanti Xtraction Connector - Flexera Flexnet Lic
+1,Xtraction,XTRCFRITSM-L,Ivanti Xtraction Connector - Frontrange ITSM Lic
+3,Xtraction,XTRCHPAM-L,Ivanti Xtraction Connector - HP Asset Manager Lic
+3,Xtraction,XTRCHPSM-L,Ivanti Xtraction Connector - HP Service Manager Lic
+1,Xtraction,XTRCHPSM-S,Ivanti Xtraction Connector - HP Service Manager Sub
+1,Xtraction,XTRCINFRA-L,Ivanti Xtraction Connector - INFRA Lic
+2,Xtraction,XTRCINT-L,Ivanti Xtraction Connector- Interactive Intelligence Lic
+2,Xtraction,XTRCJIRA-L,Ivanti Xtraction Connector - JIRA JIRA Lic
+5,Xtraction,XTRCMARVAL-L,Ivanti Xtraction Connector - Marval Lic
+11,Xtraction,XTRCMSAD-L,Ivanti Xtraction Connector - MS Active Directory Lic
+1,Xtraction,XTRCMSAD-L-03,Ivanti Xtraction Connector - MS Active Directory License 2500+ Employees
+1,Xtraction,XTRCMSECM-L,XTR CONN - MANAGESOFT ECM LIC
+11,Xtraction,XTRCMSSCCM-L,Ivanti Xtraction Connector - MS Sccm Lic
+1,Xtraction,XTRCMSSCOM-L,Ivanti Xtraction Connector - MS Scom Lic
+1,Xtraction,XTRCSCCM-L-01,Ivanti Xtraction Connector - MS SCCM License 1-499 Employees
+1,Xtraction,XTRCSCCM-L-02,Ivanti Xtraction Connector - MS SCCM License 500-2499 Employees
+2,Xtraction,XTRCSCCM-L-03,Ivanti Xtraction Connector - MS SCCM License 2500+ Employees
+1,Xtraction,XTRCSCCM-S,Ivanti Xtraction Connector - MS SCCM Subscription
+12,Xtraction,XTRCSN-L,Ivanti Xtraction Connector - Servicenow Lic
+5,Xtraction,XTRCSW-L,Ivanti Xtraction Connector - Solarwinds - Node Manager Lic
+24,Xtraction,XTRENSVRUPG-L,Ivanti Xtraction Enterprise Server UPG Lic - Fr Std
+74,Xtraction,XTRENTSVR-L,Ivanti Xtraction Enterprise Server Lic
+4,Xtraction,XTRENTSVR-S,Ivanti Xtraction Enterprise Server Sub
+1,Xtraction,XTRVCENTER-L,Ivanti Xtraction Connector - VMWare vCenter License
+9,Xtraction OEM Royalty,XTRROY-L,Ivanti Xtraction OEM Royalty - Lic
+16,Xtraction OEM Royalty,XTRROY-M,Ivanti Xtraction OEM Royalty - Mnt
+11,Xtraction OEM Royalty,XTRROY-S,Ivanti Xtraction OEM Royalty - Sub
